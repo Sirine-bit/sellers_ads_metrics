@@ -1,0 +1,590 @@
+{
+  "client_id": "specialbio",
+  "analyzed_at": "2025-10-30T00:09:00.646124",
+  "pages_analyzed": 1,
+  "global_stats": {
+    "total_ads": 55,
+    "converty_ads": 54,
+    "concurrent_ads": 1,
+    "unknown_ads": 0,
+    "converty_ratio": 98.18,
+    "concurrent_ratio": 1.82
+  },
+  "top_competitors": [
+    {
+      "domain": "specialbio.converty.shop",
+      "total_ads": 1
+    }
+  ],
+  "page_details": [
+    {
+      "page_id": "365705123295964",
+      "page_name": "Echraqa اشراقة",
+      "converty_domain": "echraqa.shop",
+      "total_ads": 55,
+      "converty_ads": 54,
+      "concurrent_ads": 1,
+      "unknown_ads": 0,
+      "converty_ratio": 98.18181818181819,
+      "concurrent_ratio": 1.8181818181818181,
+      "competitors": [
+        {
+          "domain": "specialbio.converty.shop",
+          "ads_count": 1
+        }
+      ],
+      "classified_ads": [
+        {
+          "ad_id": "1158261713067210",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1549024806130646",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "801833435925092",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "2127401424695616",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "831330836215795",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1350012343499331",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "4102696889995366",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1402585444906711",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m7mozpai1sdlpnpu6",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1101750478434472",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m7mpq1sj2ljp14x84",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1874462093424369",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m7mpq1sj2ljp14x84",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1144357513966641",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m7mpqmic2znkqoq8r",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "833671199616906",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m7mpdm8x1maffzbob",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "2266173040490379",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m7mozpai1sdlpnpu6",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "24862673846723475",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m7mpqmic2znkqoq8r",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "786986710833180",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "812994554819040",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1445663329854908",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1785979856125520",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1538166853862580",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "817463087904383",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "2336706493476091",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1338579791039173",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1502598700979338",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "676416721793777",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1218478773451055",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "2053922832094519",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "772922925801637",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1753691205307042",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1144114987864896",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1486318342673409",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1519299115765447",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m9c1qypez5edc6oc",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "24835698612778410",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m5elhwwe1fx905dhb",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "798443839842785",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "816644227616926",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1312002033946098",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1330385982060112",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68njbmmpmlohlux",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "4181096198832894",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m9c1qypez5edc6oc",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1172393158144277",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "542406972300358",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "813674541254806",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1154592743403273",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1334528874777528",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m5elwvfoqtfvsnu8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1449152966150964",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m5elhwwe1fx905dhb",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1480983526464282",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m9c1qypez5edc6oc",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1497434948181597",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1860336157887913",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m68nogql2rm62rtv8",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "2669517590047581",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m5elt668rerkyke7",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "850636290962928",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m9c1qypez5edc6oc",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1112433117717670",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m9c1qypez5edc6oc",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1468399734417999",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m9c1qypez5edc6oc",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "2256575998163508",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium=%7B%7Bcampaign.name%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D&+ad_id=%7B%7Bad.id%7D%7D&%0A+adset_id=%7B%7Badset.id%7D%7D&%0A+campaign_id=%7B%7Bcampaign.id%7D%7D&%0A+placement=%7B%7Bplacement%7D%7D&%0A+site_source_name=%7B%7Bsite_source_name%7D%7D&%0A+cuid=m9c1qypez5edc6oc",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1932918170871249",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m7mpe2x1zuf4z2gx",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1036781387785265",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/krym-kaab-lgzl?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m7mpe2x1zuf4z2gx",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "580578281260457",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "URL contient le domaine Converty: echraqa.shop",
+          "destination_url": "https://echraqa.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m5bs8mwl2edy2sttx",
+          "competitor_domain": null,
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "2920814758101045",
+          "classification": "CONCURRENT",
+          "confidence": "high",
+          "reason": "URL pointe vers un domaine concurrent: specialbio.converty.shop",
+          "destination_url": "https://specialbio.converty.shop/product/serum-gold?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=lz3c05p6265s1fpa5",
+          "competitor_domain": "specialbio.converty.shop",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        }
+      ]
+    }
+  ]
+}

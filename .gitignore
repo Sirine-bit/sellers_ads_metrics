@@ -1,0 +1,8 @@
+# Environment
+venv/
+.env
+# Output data
+data/output/mappings/*.json
+!data/output/mappings/.gitkeep
+# Input data
+data/input/*.json
