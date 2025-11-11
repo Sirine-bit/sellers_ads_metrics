@@ -2,8 +2,8 @@
 Point d'entrée principal - Phase 1: Discovery & Mapping
 """
 import json
-import os
 from config.settings import settings
+from src.database.mongo_client import MongoDBClient
 from src.discovery.site_mapper import SiteMapper
 from src.utils.logger import setup_logger
 
@@ -12,20 +12,26 @@ logger = setup_logger(__name__)
 
 def load_clients() -> list:
     """
-    Charger la liste des clients depuis le fichier JSON
-    Format attendu: {"Slug": "...", "Domaine": [...]}
+    Charger la liste des clients depuis MongoDB (10 premiers clients)
     """
-    clients_file = os.path.join(settings.INPUT_DIR, 'clients.json')
+    mongo_client = MongoDBClient()
+    # Prendre les 10 premiers stores
+    stores = list(mongo_client.db.stores.find().limit(10))
     
-    with open(clients_file, 'r', encoding='utf-8') as f:
-        raw_clients = json.load(f)
-    
+    logger.info(f"🔍 Test avec {len(stores)} clients")
     normalized_clients = []
     
-    for client in raw_clients:
+    for store in stores:
         # Récupérer Slug et Domaine
-        slug = client.get('Slug')
-        domaines = client.get('Domaine', [])
+        slug = store.get('slug')
+        domain = store.get('domain')
+        
+        # Si pas de domaine, utiliser slug.converty.shop
+        if not domain:
+            domain = f"{slug}.converty.shop"
+            logger.info(f"ℹ️ Domaine généré pour {slug}: {domain}")
+        
+        domaines = [domain] if domain else []
         
         # Validation
         if not slug:

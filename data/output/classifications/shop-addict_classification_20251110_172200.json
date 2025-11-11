@@ -1,0 +1,118 @@
+{
+  "client_id": "shop-addict",
+  "analyzed_at": "2025-11-10T17:22:00.956339",
+  "pages_analyzed": 1,
+  "global_stats": {
+    "total_ads": 8,
+    "converty_ads": 8,
+    "concurrent_ads": 0,
+    "unknown_ads": 0,
+    "converty_ratio": 100.0,
+    "concurrent_ratio": 0.0
+  },
+  "top_competitors": [],
+  "page_details": [
+    {
+      "page_id": "114005908330918",
+      "page_name": "Shop Addict",
+      "converty_domain": "shop-addict.tn",
+      "total_ads": 8,
+      "converty_ads": 8,
+      "concurrent_ads": 0,
+      "unknown_ads": 0,
+      "converty_ratio": 100.0,
+      "concurrent_ratio": 0.0,
+      "competitors": [],
+      "classified_ads": [
+        {
+          "ad_id": "4299078917036147",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "Domaine Converty confirmé par DNS - IP: 34.155.58.152",
+          "destination_url": "https://shop-addict.tn/product/pochette-cigarette-briquet-2-en-1?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mhsx66bwmv8lves8",
+          "competitor_domain": null,
+          "competitor_platform": "converty",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1038154341733578",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "Domaine Converty confirmé par DNS - IP: 34.155.58.152",
+          "destination_url": "https://shop-addict.tn/product/krt-ltrqyd-lhwy-y?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mhqxe4d91gjkeogkh",
+          "competitor_domain": null,
+          "competitor_platform": "converty",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1489496669007768",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "Domaine Converty confirmé par DNS - IP: 34.155.58.152",
+          "destination_url": "https://shop-addict.tn/product/msbh-aard-lswr-ll-tfl?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mhdv2juy2jifr0mof",
+          "competitor_domain": null,
+          "competitor_platform": "converty",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "2001173054036269",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "Domaine Converty confirmé par DNS - IP: 34.155.58.152",
+          "destination_url": "https://shop-addict.tn/product/msbh-aard-lswr-ll-tfl?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mhdundo72mitto9fm",
+          "competitor_domain": null,
+          "competitor_platform": "converty",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "24542522878763441",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "Domaine Converty confirmé par DNS - IP: 34.155.58.152",
+          "destination_url": "https://shop-addict.tn/product/msbh-aard-lswr-ll-tfl?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mhduto5r2eb2breay",
+          "competitor_domain": null,
+          "competitor_platform": "converty",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1683279882362742",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "Domaine Converty confirmé par DNS - IP: 34.155.58.152",
+          "destination_url": "https://shop-addict.tn/product/krt-ltrqyd-lhwy-y?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mg2sz4lw39npi2rjh",
+          "competitor_domain": null,
+          "competitor_platform": "converty",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "1161210885877216",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "Domaine Converty confirmé par DNS - IP: 34.155.58.152",
+          "destination_url": "https://shop-addict.tn/product/d-qtf-lfwkh?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mf0575aytvjju6te",
+          "competitor_domain": null,
+          "competitor_platform": "converty",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        },
+        {
+          "ad_id": "439064912548889",
+          "classification": "CONVERTY",
+          "confidence": "high",
+          "reason": "Domaine Converty confirmé par DNS - IP: 34.155.58.152",
+          "destination_url": "https://shop-addict.tn/product/msbh-aard-lswr-ll-tfl?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m2xvzy2i2m8tcz9va",
+          "competitor_domain": null,
+          "competitor_platform": "converty",
+          "ad_creation_time": null,
+          "ad_delivery_start_time": null
+        }
+      ]
+    }
+  ]
+}

@@ -18,33 +18,104 @@ class StatsGenerator:
     def save_classification_report(
         report: Dict[str, Any],
         filename: str = None
-    ) -> str:
+    ) -> Dict[str, Any]:
         """
-        Sauvegarder le rapport de classification
+        Préparer le rapport de classification pour MongoDB avec la même structure que les fichiers JSON
         
         Args:
             report: Données du rapport
-            filename: Nom du fichier (optionnel)
+            filename: Non utilisé, gardé pour compatibilité
             
         Returns:
-            Chemin du fichier créé
+            Rapport formaté pour MongoDB
         """
-        if not filename:
-            client_id = report['client_id']
-            timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-            filename = f"{client_id}_classification_{timestamp}.json"
+        # Calculer les statistiques globales
+        total_ads = 0
+        converty_ads = 0
+        concurrent_ads = 0
+        unknown_ads = 0
+        competitors = {}
         
-        # Créer le dossier si nécessaire
-        os.makedirs(settings.CLASSIFICATIONS_DIR, exist_ok=True)
+        # Analyser les pages et annonces
+        page_details = []
         
-        filepath = os.path.join(settings.CLASSIFICATIONS_DIR, filename)
+        for page in report.get('pages', []):
+            page_stats = {
+                'page_id': page['page_id'],
+                'page_name': page['name'],
+                'converty_domain': page.get('converty_domain', ''),
+                'total_ads': len(page['ads']),
+                'converty_ads': sum(1 for ad in page['ads'] if ad['classification'] == 'CONVERTY'),
+                'concurrent_ads': sum(1 for ad in page['ads'] if ad['classification'] == 'CONCURRENT'),
+                'unknown_ads': sum(1 for ad in page['ads'] if ad['classification'] == 'UNKNOWN')
+            }
+            
+            # Calculer les ratios
+            page_stats['converty_ratio'] = round(page_stats['converty_ads'] / page_stats['total_ads'] * 100, 2) if page_stats['total_ads'] > 0 else 0
+            page_stats['concurrent_ratio'] = round(page_stats['concurrent_ads'] / page_stats['total_ads'] * 100, 2) if page_stats['total_ads'] > 0 else 0
+            
+            # Extraire les infos des concurrents
+            page_competitors = []
+            for ad in page['ads']:
+                if ad['classification'] == 'CONCURRENT':
+                    domain = ad.get('competitor_domain')
+                    if domain:
+                        competitors[domain] = competitors.get(domain, 0) + 1
+                        
+            page_stats['competitors'] = page_competitors
+            page_stats['classified_ads'] = [
+                {
+                    'ad_id': ad['ad_id'],
+                    'classification': ad['classification'],
+                    'confidence': ad.get('confidence', 'medium'),
+                    'reason': ad.get('reason', ''),
+                    'destination_url': ad.get('url'),
+                    'competitor_domain': ad.get('competitor_domain'),
+                    'competitor_platform': ad.get('competitor_platform'),
+                    'creation_date': ad.get('creation_date'),
+                    'start_date': ad.get('start_date'),
+                    'end_date': ad.get('end_date')
+                }
+                for ad in page['ads']
+            ]
+            
+            page_details.append(page_stats)
+            
+            # Mettre à jour les totaux globaux
+            total_ads += page_stats['total_ads']
+            converty_ads += page_stats['converty_ads']
+            concurrent_ads += page_stats['concurrent_ads']
+            unknown_ads += page_stats['unknown_ads']
+            
+        # Préparer les top concurrents
+        top_competitors = [
+            {
+                'domain': domain,
+                'total_ads': count,
+                'platform': 'unknown'
+            }
+            for domain, count in sorted(competitors.items(), key=lambda x: x[1], reverse=True)
+        ]
+            
+        # Créer le rapport pour MongoDB avec la même structure que les fichiers JSON
+        mongo_report = {
+            'client_id': report['client_id'],
+            'analyzed_at': datetime.now().isoformat(),
+            'pages_analyzed': len(page_details),
+            'global_stats': {
+                'total_ads': total_ads,
+                'converty_ads': converty_ads,
+                'concurrent_ads': concurrent_ads,
+                'unknown_ads': unknown_ads,
+                'converty_ratio': round(converty_ads / total_ads * 100, 2) if total_ads > 0 else 0,
+                'concurrent_ratio': round(concurrent_ads / total_ads * 100, 2) if total_ads > 0 else 0
+            },
+            'top_competitors': top_competitors,
+            'page_details': page_details,
+            'type': 'report'  # Marquer comme rapport (Phase 2)
+        }
         
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(report, f, indent=2, ensure_ascii=False)
-        
-        logger.info(f"💾 Rapport sauvegardé: {filepath}")
-        
-        return filepath
+        return mongo_report
     
     @staticmethod
     def print_summary(report: Dict[str, Any]):

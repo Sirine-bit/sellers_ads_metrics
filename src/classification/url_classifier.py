@@ -27,18 +27,18 @@ class URLClassifier:
     
     def __init__(self):
         self.dns_checker = DNSChecker()
-    
+
     def classify_ad(
         self, 
         ad: Dict[str, Any], 
         converty_domain: str
     ) -> Dict[str, Any]:
         """
-        Classifier une publicité avec vérification DNS
+        Classifier une publicité avec vérification DNS (logique optimisée)
         
         Args:
             ad: Données de la publicité
-            converty_domain: Domaine Converty du client (ex: "tbshopp.com")
+            converty_domain: Domaine Converty du client (ex: "echraqa.shop")
             
         Returns:
             {
@@ -47,7 +47,7 @@ class URLClassifier:
                 'reason': str,
                 'destination_url': str,
                 'competitor_domain': str | None,
-                'competitor_platform': str | None  # 'youcan', 'shopify', etc.
+                'competitor_platform': str | None
             }
         """
         # Extraire les URLs de la publicité
@@ -71,106 +71,68 @@ class URLClassifier:
             if not domain or self._is_ignored_domain(domain):
                 continue
             
-            # 🆕 VÉRIFICATION DNS
+            # 🔥 NOUVELLE LOGIQUE DNS (Cascade optimisée)
             dns_result = self.dns_checker.check_domain(domain)
             
-            # Si c'est Converty (via DNS)
+            # 1️⃣ Si DNS confirme Converty (IP ou CNAME)
             if dns_result['is_converty']:
+                reason_parts = [f"Domaine Converty confirmé par DNS"]
+                if dns_result['ip'] == self.dns_checker.CONVERTY_IP:
+                    reason_parts.append(f"IP: {dns_result['ip']}")
+                elif dns_result['cname']:
+                    reason_parts.append(f"CNAME: {dns_result['cname']}")
+                
                 return {
                     'classification': 'CONVERTY',
-                    'confidence': 'high',
-                    'reason': f'Domaine Converty confirmé par DNS (IP: {dns_result["ip"]})',
+                    'confidence': dns_result['confidence'],
+                    'reason': ' - '.join(reason_parts),
                     'destination_url': url,
                     'competitor_domain': None,
                     'competitor_platform': 'converty'
                 }
             
-            # Vérifier si l'URL contient le domaine Converty du client
+            # 2️⃣ Si DNS révèle un concurrent (YouCan, Shopify, etc.)
+            if dns_result['platform'] != 'unknown':
+                return {
+                    'classification': 'CONCURRENT',
+                    'confidence': dns_result['confidence'],
+                    'reason': f"Concurrent détecté: {domain} (Plateforme: {dns_result['platform']})",
+                    'destination_url': url,
+                    'competitor_domain': domain,
+                    'competitor_platform': dns_result['platform']
+                }
+            
+            # 3️⃣ Fallback: Vérifier si l'URL contient le domaine client
             if converty_domain.lower() in url.lower():
                 return {
                     'classification': 'CONVERTY',
-                    'confidence': 'high',
-                    'reason': f'URL contient le domaine Converty: {converty_domain}',
+                    'confidence': 'medium',
+                    'reason': f'URL contient le domaine client: {converty_domain}',
                     'destination_url': url,
                     'competitor_domain': None,
                     'competitor_platform': 'converty'
                 }
             
-            # C'est un concurrent
-            platform = dns_result['platform'] if dns_result['platform'] != 'unknown' else None
-            
+            # 4️⃣ Domaine externe non identifié = concurrent unknown
             return {
                 'classification': 'CONCURRENT',
-                'confidence': 'high',
-                'reason': f'Concurrent détecté: {domain} (Plateforme: {platform or "inconnue"})',
+                'confidence': 'low',
+                'reason': f'Domaine externe non identifié: {domain}',
                 'destination_url': url,
                 'competitor_domain': domain,
-                'competitor_platform': platform
+                'competitor_platform': 'unknown'
             }
         
         # Aucune URL commerciale trouvée
         return {
             'classification': 'UNKNOWN',
-            'confidence': 'medium',
+            'confidence': 'low',
             'reason': 'Aucune URL commerciale identifiée',
             'destination_url': urls[0] if urls else None,
             'competitor_domain': None,
             'competitor_platform': None
         }
-        # Extraire les URLs de la publicité
-        urls = self._extract_urls_from_ad(ad)
-        
-        if not urls:
-            return {
-                'classification': 'UNKNOWN',
-                'confidence': 'low',
-                'reason': 'Aucune URL trouvée dans la publicité',
-                'destination_url': None,
-                'competitor_domain': None
-            }
-        
-        # Analyser chaque URL
-        for url in urls:
-            url_lower = url.lower()
-            
-            # 1. Vérifier si c'est le domaine Converty
-            if converty_domain.lower() in url_lower:
-                return {
-                    'classification': 'CONVERTY',
-                    'confidence': 'high',
-                    'reason': f'URL contient le domaine Converty: {converty_domain}',
-                    'destination_url': url,
-                    'competitor_domain': None
-                }
-            
-            # 2. Extraire le domaine de l'URL
-            domain = self._extract_domain(url)
-            
-            if not domain:
-                continue
-            
-            # 3. Vérifier si c'est un domaine ignoré (Facebook, etc.)
-            if self._is_ignored_domain(domain):
-                continue
-            
-            # 4. C'est un concurrent !
-            return {
-                'classification': 'CONCURRENT',
-                'confidence': 'high',
-                'reason': f'URL pointe vers un domaine concurrent: {domain}',
-                'destination_url': url,
-                'competitor_domain': domain
-            }
-        
-        # Aucune URL commerciale trouvée
-        return {
-            'classification': 'UNKNOWN',
-            'confidence': 'medium',
-            'reason': 'Aucune URL commerciale identifiée',
-            'destination_url': urls[0] if urls else None,
-            'competitor_domain': None
-        }
-    
+
     def _extract_urls_from_ad(self, ad: Dict[str, Any]) -> List[str]:
         """
         Extraire toutes les URLs d'une publicité
@@ -224,7 +186,7 @@ class URLClassifier:
                 seen.add(url)
         
         return unique_urls
-    
+
     def _extract_domain(self, url: str) -> Optional[str]:
         """
         Extraire le domaine principal d'une URL
@@ -259,7 +221,7 @@ class URLClassifier:
         except Exception as e:
             logger.debug(f"Erreur extraction domaine de {url}: {e}")
             return None
-    
+
     def _is_ignored_domain(self, domain: str) -> bool:
         """Vérifier si le domaine doit être ignoré"""
         domain_lower = domain.lower()

@@ -109,18 +109,22 @@ class SiteMapper:
         filename: str = None
     ) -> str:
         """
-        Sauvegarder le mapping dans un fichier JSON
+        Sauvegarder le mapping dans MongoDB
         """
-        if not filename:
-            client_id = mapping['client_id']
-            timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-            filename = f"{client_id}_mapping_{timestamp}.json"
+        from src.database.mongo_client import MongoDBClient
         
-        filepath = os.path.join(settings.MAPPINGS_DIR, filename)
+        client_id = mapping['client_id']
+        timestamp = datetime.now()
         
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(mapping, f, indent=2, ensure_ascii=False)
+        # Ajouter des métadonnées
+        mapping['created_at'] = timestamp
+        # Marquer le type de document (Phase 1 = mapping)
+        mapping['type'] = 'mapping'
         
-        logger.info(f"💾 Mapping sauvegardé: {filepath}")
+        # Sauvegarder dans MongoDB
+        mongo_client = MongoDBClient()
+        result = mongo_client.db.ads_metrics.insert_one(mapping)
         
-        return filepath
+        logger.info(f"💾 Mapping sauvegardé dans MongoDB (id: {result.inserted_id})")
+        
+        return str(result.inserted_id)
