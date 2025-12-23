@@ -12,11 +12,11 @@ logger = setup_logger(__name__)
 
 def load_clients() -> list:
     """
-    Charger la liste des clients depuis MongoDB (10 premiers clients)
+    Charger la liste des clients depuis MongoDB (20 premiers clients)
     """
     mongo_client = MongoDBClient()
-    # Prendre les 10 premiers stores
-    stores = list(mongo_client.db.stores.find().limit(10))
+    # Prendre les 20 premiers stores
+    stores = list(mongo_client.db.stores.find().limit(20))
     
     logger.info(f"🔍 Test avec {len(stores)} clients")
     normalized_clients = []
