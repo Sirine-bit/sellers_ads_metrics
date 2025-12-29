@@ -30,6 +30,10 @@ class MetricsCalculator:
         """
         Calculer les KPIs de vue d'ensemble
         
+        IMPORTANT:
+        - Actifs = clients avec type='report' (Phase 2) - données les plus récentes
+        - Inactifs = clients avec status='inactive' ET type='mapping' (Phase 1)
+        
         Returns:
             {
                 'total_clients': 21764,
@@ -43,7 +47,11 @@ class MetricsCalculator:
         """
         total_clients = len(self.stores)
         traités = len(self.mappings)
-        actifs = len(self.mappings_active)
+        
+        # Actifs = clients avec report Phase 2 (données les plus à jour)
+        actifs = len(self.reports)
+        
+        # Inactifs = clients Phase 1 avec status='inactive' uniquement
         inactifs = len(self.mappings_inactive)
         
         kpis = {
@@ -220,28 +228,74 @@ class MetricsCalculator:
     
     def get_activity_distribution(self) -> Dict[str, List[int]]:
         """
-        Distribution des clients par nombre de publicités
+        Distribution des clients ACTIFS (Phase 2) par nombre de publicités
+        
+        IMPORTANT: Utilise uniquement Phase 2 car seuls les actifs ont des rapports
         
         Returns:
             {
                 'bins': ['0-5', '5-10', '10-20', '20+'],
-                'counts': [450, 180, 70, 18]
+                'counts': [0, 5, 15, 20]  # nombre de clients actifs par catégorie
             }
         """
-        # Utiliser Phase 2 si disponible, sinon Phase 1
-        ads_counts = []
+        # Utiliser UNIQUEMENT Phase 2 (actifs)
+        if not self.reports:
+            return {
+                'bins': ['0-5', '5-10', '10-20', '20+'],
+                'counts': [0, 0, 0, 0]
+            }
         
-        if self.reports:
-            # Phase 2: données les plus récentes
-            for report in self.reports:
-                total_ads = report.get('metrics', {}).get('total_ads', 0)
-                ads_counts.append(total_ads)
-        else:
-            # Phase 1: fallback
-            ads_counts = [
-                m.get('processing_metadata', {}).get('total_ads', 0)
-                for m in self.mappings
-            ]
+        ads_counts = [
+            report.get('metrics', {}).get('total_ads', 0)
+            for report in self.reports
+        ]
+        
+        # Créer les bins
+        bins = {
+            '0-5': 0,
+            '5-10': 0,
+            '10-20': 0,
+            '20+': 0
+        }
+        
+        for count in ads_counts:
+            if count <= 5:
+                bins['0-5'] += 1
+            elif count <= 10:
+                bins['5-10'] += 1
+            elif count <= 20:
+                bins['10-20'] += 1
+            else:
+                bins['20+'] += 1
+        
+        return {
+            'bins': list(bins.keys()),
+            'counts': list(bins.values())
+        }
+    
+    def get_activity_distribution_inactive(self) -> Dict[str, List[int]]:
+        """
+        Distribution des clients INACTIFS (Phase 1) par nombre de publicités
+        
+        IMPORTANT: Utilise uniquement Phase 1 inactifs (status='inactive')
+        
+        Returns:
+            {
+                'bins': ['0-5', '5-10', '10-20', '20+'],
+                'counts': [600, 50, 20, 8]
+            }
+        """
+        # Utiliser UNIQUEMENT les inactifs
+        if not self.mappings_inactive:
+            return {
+                'bins': ['0-5', '5-10', '10-20', '20+'],
+                'counts': [0, 0, 0, 0]
+            }
+        
+        ads_counts = [
+            m.get('processing_metadata', {}).get('total_ads', 0)
+            for m in self.mappings_inactive
+        ]
         
         # Créer les bins
         bins = {

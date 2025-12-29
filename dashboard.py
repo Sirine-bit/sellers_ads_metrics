@@ -46,7 +46,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-@st.cache_data(ttl=60)  # Cache 60 secondes
+@st.cache_data(ttl=5)  # Cache 5 secondes pour éviter les requêtes trop fréquentes
 def load_all_data():
     """Charger toutes les données depuis MongoDB (avec cache)"""
     loader = DataLoader()
@@ -220,15 +220,40 @@ def main():
             st.plotly_chart(pie_fig, use_container_width=True)
         
         with chart_col2:
-            st.subheader("Distribution par nombre d'ads")
-            dist_data = calc.get_activity_distribution()
-            bar_fig = charts.create_bar_chart(
-                labels=dist_data['bins'],
-                values=dist_data['counts'],
-                title="Nombre de clients par tranche de publicités",
+            st.subheader("Distribution Clients ACTIFS (Phase 2)")
+            dist_data_active = calc.get_activity_distribution()
+            bar_fig_active = charts.create_bar_chart(
+                labels=dist_data_active['bins'],
+                values=dist_data_active['counts'],
+                title=f"Clients Actifs: {sum(dist_data_active['counts'])} clients",
                 horizontal=False
             )
-            st.plotly_chart(bar_fig, use_container_width=True)
+            st.plotly_chart(bar_fig_active, use_container_width=True)
+        
+        # Deuxième ligne pour les inactifs
+        st.divider()
+        st.subheader("📊 Distribution Clients INACTIFS (Phase 1)")
+        
+        col_inactive1, col_inactive2 = st.columns(2)
+        
+        with col_inactive1:
+            dist_data_inactive = calc.get_activity_distribution_inactive()
+            bar_fig_inactive = charts.create_bar_chart(
+                labels=dist_data_inactive['bins'],
+                values=dist_data_inactive['counts'],
+                title=f"Clients Inactifs: {sum(dist_data_inactive['counts'])} clients",
+                horizontal=False
+            )
+            st.plotly_chart(bar_fig_inactive, use_container_width=True)
+        
+        with col_inactive2:
+            st.info("""
+            **📌 Explication:**
+            - **Actifs (Phase 2)** : Clients avec des publicités détectées lors du dernier scan
+            - **Inactifs (Phase 1)** : Clients sans publicités lors de la Phase 1 initiale
+            
+            ⚠️ Un client peut passer de "Actif" à "Inactif" entre deux runs si ses publicités sont supprimées
+            """)
     
     # ==================== SECTION 2: ANALYSE TEMPORELLE ====================
     elif page == "Analyse temporelle":
