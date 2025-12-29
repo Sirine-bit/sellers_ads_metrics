@@ -1,5 +1,5 @@
 """
-Mapper entre sites et pages Facebook - AVEC FILTRAGE
+Mapper entre sites et pages Facebook - AVEC FILTRAGE + DÉTECTION INACTIVITÉ
 """
 from typing import List, Dict, Any
 from datetime import datetime
@@ -15,6 +15,9 @@ logger = setup_logger(__name__)
 
 class SiteMapper:
     """Crée le mapping entre sites et pages Facebook avec filtrage strict"""
+    
+    # 🎯 SEUIL D'ACTIVITÉ : clients avec moins de X ads = INACTIFS
+    ACTIVITY_THRESHOLD = 5
     
     def __init__(self):
         self.ads_collector = AdsCollector()
@@ -73,12 +76,39 @@ class SiteMapper:
             
             logger.info(f"✓ Mapping créé pour {site}: {len(pages)} page(s) utilisant le domaine\n")
         
+        # 🎯 DÉTERMINER SI LE CLIENT EST ACTIF
+        total_ads = sum(m['total_ads'] for m in mappings)
+        is_active = total_ads >= self.ACTIVITY_THRESHOLD
+        
+        # Statut du client
+        if is_active:
+            status = 'ACTIF'
+            status_icon = '🟢'
+            recommendation = 'Passer à Phase 2 (classification)'
+        else:
+            status = 'INACTIF'
+            status_icon = '🔴'
+            recommendation = 'Vérification manuelle recommandée (économie Apify)'
+        
+        logger.info(f"\n{'─'*60}")
+        logger.info(f"{status_icon} CLIENT {status}")
+        logger.info(f"   Total ads trouvées: {total_ads}")
+        logger.info(f"   Seuil d'activité: {self.ACTIVITY_THRESHOLD}")
+        logger.info(f"   📋 Recommandation: {recommendation}")
+        logger.info(f"{'─'*60}\n")
+        
         # Résultat final
         result = {
             'client_id': client_id,
             'total_sites': len(sites),
             'mappings': mappings,
-            'created_at': datetime.now().isoformat()
+            'created_at': datetime.now().isoformat(),
+            # 🆕 NOUVEAUX CHAMPS
+            'total_ads': total_ads,
+            'is_active': is_active,
+            'activity_status': status,
+            'phase2_recommendation': 'PROCESS' if is_active else 'SKIP',
+            'activity_threshold': self.ACTIVITY_THRESHOLD
         }
         
         logger.info(f"\n{'='*60}")

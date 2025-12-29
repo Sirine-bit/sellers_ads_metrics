@@ -25,14 +25,20 @@ class ApifyFacebookAdsClient:
     def search_ads_by_domain(
         self, 
         domain: str, 
-        country: str = None
+        country: str = None,
+        max_items: int = None,  # ✨ NOUVEAU: limiter le nombre d'items
+        memory_mb: int = 512,   # ✨ NOUVEAU: optimiser la mémoire
+        timeout_secs: int = 300  # ✨ NOUVEAU: timeout pour éviter les runs trop longs
     ) -> List[Dict[str, Any]]:
         """
-        Chercher TOUTES les publicités pour un domaine
+        Chercher TOUTES les publicités pour un domaine avec optimisation des coûts
         
         Args:
             domain: Domaine à rechercher (ex: ravino.converty.shop)
             country: Code pays (ex: TN)
+            max_items: Nombre maximum d'items (None = illimité, optimisation: 100-500)
+            memory_mb: Mémoire allouée en MB (défaut: 512, minimum recommandé)
+            timeout_secs: Timeout en secondes (défaut: 300 = 5 min)
             
         Returns:
             Liste de TOUTES les publicités trouvées
@@ -46,25 +52,51 @@ class ApifyFacebookAdsClient:
         logger.info(f"📍 URL: {meta_url}")
         
         try:
-            # ✅ CORRECTION : Format correct pour l'Actor
+            # ✅ OPTIMISATION: Limiter le nombre d'items si spécifié
+            # 200 par défaut = optimal pour la majorité des clients (économie 60% vs 9999)
+            count = max_items if max_items else 200
+            
             run_input = {
                 "urls": [
-                    {"url": meta_url}  # ✅ Liste de dictionnaires avec clé "url"
+                    {"url": meta_url}
                 ],
-                "count": 9999,  # ✅ Utiliser "count" au lieu de "maxItems"
-                "period": "",  # ✅ Période vide pour toutes les dates
-                "scrapePageAds.activeStatus": "all",  # ✅ Tous les statuts
-                "scrapePageAds.countryCode": "ALL",   # ✅ Tous les pays
+                "count": count,  # ✅ Limiter le scraping
+                "period": "",
+                "scrapePageAds.activeStatus": "all",
+                "scrapePageAds.countryCode": "ALL",
                 "proxyConfiguration": {
                     "useApifyProxy": True
                 }
             }
             
             logger.debug(f"Input: {run_input}")
-            logger.info("🚀 Lancement de l'Actor...")
+            logger.debug(f"Options: memory={memory_mb}MB, timeout={timeout_secs}s, max_items={count}")
+            logger.info(f"🚀 Lancement de l'Actor (max={count} ads, {memory_mb}MB, {timeout_secs}s timeout)...")
             
-            # Lancer l'Actor
-            run = self.client.actor(self.actor_id).call(run_input=run_input)
+            # ✅ CORRECTION: Les paramètres memory_mbytes et timeout_secs doivent être passés dans build
+            # Retry automatique intégré (3 tentatives)
+            max_retries = 3
+            last_error = None
+            
+            for attempt in range(max_retries):
+                try:
+                    run = self.client.actor(self.actor_id).call(
+                        run_input=run_input,
+                        build="latest",
+                        memory_mbytes=memory_mb,
+                        timeout_secs=timeout_secs
+                    )
+                    break  # Succès, sortir de la boucle
+                except Exception as e:
+                    last_error = e
+                    if attempt < max_retries - 1:
+                        wait_time = 2 ** attempt  # Exponential backoff: 1s, 2s, 4s
+                        logger.warning(f"⚠️ Tentative {attempt + 1}/{max_retries} échouée: {e}. Retry dans {wait_time}s...")
+                        import time
+                        time.sleep(wait_time)
+                    else:
+                        logger.error(f"❌ Échec après {max_retries} tentatives")
+                        raise last_error
             
             # Récupérer les résultats
             ads = []
@@ -103,22 +135,29 @@ class ApifyFacebookAdsClient:
     def get_all_ads_by_page_id(
         self, 
         page_id: str,
-        country: str = None
+        country: str = None,
+        max_items: int = None,
+        memory_mb: int = 512,
+        timeout_secs: int = 300
     ) -> List[Dict[str, Any]]:
         """
-        Récupérer TOUTES les publicités d'une page Facebook
+        Récupérer les publicités d'une page Facebook
         (Utilisé en Phase 2)
         
         Args:
             page_id: ID de la page Facebook
             country: Code pays
+            max_items: Limite d'ads (défaut: 500 pour Phase 2)
+            memory_mb: Mémoire allouée
+            timeout_secs: Timeout
             
         Returns:
-            Liste de TOUTES les publicités de cette page
+            Liste des publicités de cette page
         """
         country = country or settings.DEFAULT_COUNTRY
+        count = max_items if max_items else 500  # ✅ Optimisé pour Phase 2
         
-        logger.info(f"🔍 Récupération de TOUTES les ads de la page: {page_id}")
+        logger.info(f"🔍 Récupération des ads de la page: {page_id} (max={count})")
         
         try:
             # URL pour rechercher par page ID
@@ -134,7 +173,7 @@ class ApifyFacebookAdsClient:
             
             run_input = {
                 "urls": [{"url": meta_url}],
-                "count": 9999,
+                "count": count,  # ✅ Optimisé
                 "period": "",
                 "scrapePageAds.activeStatus": "all",
                 "scrapePageAds.countryCode": "ALL",
@@ -142,9 +181,29 @@ class ApifyFacebookAdsClient:
             }
             
             logger.debug(f"URL: {meta_url}")
-            logger.info("🚀 Lancement de l'Actor...")
+            logger.info(f"🚀 Lancement de l'Actor (max={count} ads, {memory_mb}MB)...")
             
-            run = self.client.actor(self.actor_id).call(run_input=run_input)
+            # Retry automatique
+            max_retries = 3
+            last_error = None
+            
+            for attempt in range(max_retries):
+                try:
+                    run = self.client.actor(self.actor_id).call(
+                        run_input=run_input,
+                        memory_mbytes=memory_mb,
+                        timeout_secs=timeout_secs
+                    )
+                    break
+                except Exception as e:
+                    last_error = e
+                    if attempt < max_retries - 1:
+                        wait_time = 2 ** attempt
+                        logger.warning(f"⚠️ Retry {attempt + 1}/{max_retries}: {e}. Attente {wait_time}s...")
+                        import time
+                        time.sleep(wait_time)
+                    else:
+                        raise last_error
             
             ads = []
             dataset_id = run.get("defaultDatasetId")

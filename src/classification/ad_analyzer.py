@@ -33,6 +33,35 @@ class AdAnalyzer:
         logger.info(f"📊 PHASE 2: ANALYSE CLIENT - {client_id}")
         logger.info(f"{'='*60}\n")
         
+        # 🎯 VÉRIFIER SI LE CLIENT EST ACTIF
+        is_active = mapping_data.get('is_active', True)
+        phase2_recommendation = mapping_data.get('phase2_recommendation', 'PROCESS')
+        total_ads = mapping_data.get('total_ads', 0)
+        
+        if not is_active or phase2_recommendation == 'SKIP':
+            logger.warning(f"\n{'⚠️ '*20}")
+            logger.warning(f"⏩ CLIENT INACTIF DÉTECTÉ")
+            logger.warning(f"   Client: {client_id}")
+            logger.warning(f"   Total ads: {total_ads}")
+            logger.warning(f"   Statut: {mapping_data.get('activity_status', 'INACTIF')}")
+            logger.warning(f"   💰 ÉCONOMIE: Skip Phase 2 (pas de scraping Apify)")
+            logger.warning(f"   📋 Action: Vérification manuelle recommandée")
+            logger.warning(f"{'⚠️ '*20}\n")
+            
+            # Retourner un rapport simplifié
+            return {
+                'client_id': client_id,
+                'analyzed_at': datetime.now().isoformat(),
+                'status': 'SKIPPED_INACTIVE',
+                'reason': f'Client inactif ({total_ads} ads < {mapping_data.get("activity_threshold", 5)})',
+                'total_ads': total_ads,
+                'is_active': False,
+                'manual_verification_required': True,
+                'cost_saved': True
+            }
+        
+        logger.info(f"🟢 Client ACTIF ({total_ads} ads) - Phase 2 en cours...\n")
+        
         # Analyser chaque site du mapping
         page_analyses = []
         

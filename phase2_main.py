@@ -2,22 +2,14 @@
 Point d'entrée Phase 2: Classification CONVERTY vs CONCURRENT
 """
 import json
-import glob
-import os
 import argparse
 from src.classification.ad_analyzer import AdAnalyzer
 from src.reporting.stats_generator import StatsGenerator
-from src.database.mongo_client import MongoDBClient  # 🆕 NOUVEAU
+from src.database.mongo_client import MongoDBClient
 from src.utils.logger import setup_logger
 from config.settings import settings
 
 logger = setup_logger(__name__)
-
-
-def load_mapping_file(filepath: str) -> dict:
-    """Charger un fichier de mapping Phase 1"""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        return json.load(f)
 
 
 def main():
@@ -43,64 +35,39 @@ def main():
     logger.info("🚀 PHASE 2: CLASSIFICATION & ANALYSE CONCURRENTS")
     logger.info("="*60 + "\n")
     
-    # 🆕 Connexion MongoDB
+    # Connexion MongoDB (obligatoire)
     mongo_client = None
     if not args.no_db:
         try:
             mongo_client = MongoDBClient()
         except Exception as e:
             logger.warning(f"⚠️ MongoDB non disponible, sauvegarde JSON uniquement: {e}")
+    if args.no_db or not mongo_client:
+        logger.error("MongoDB requis pour Phase 2 (pas de fallback fichiers)")
+        return
     
     try:
         # Valider la configuration
         settings.validate()
         logger.info("✓ Configuration validée\n")
         
-        # Si MongoDB est disponible, charger les mappings depuis la collection ads_metrics
-        mapping_documents = []
-        if mongo_client:
-            logger.info("📦 Chargement des mappings depuis MongoDB (converty.ads_metrics)")
-            query = {}
-            if args.client:
-                logger.info(f"🎯 Analyse ciblée depuis DB: client '{args.client}'\n")
-                query['client_id'] = args.client
+        # Charger uniquement les documents de type 'mapping' et status 'active'
+        logger.info("📦 Chargement des mappings depuis MongoDB (converty.ads_metrics)")
+        query = {'status': 'active', 'type': 'mapping'}
+        if args.client:
+            logger.info(f"🎯 Analyse ciblée depuis DB: client '{args.client}'\n")
+            query['client_id'] = args.client
+        else:
+            logger.info("🟢 Chargement des clients ACTIFS uniquement (status='active')\n")
 
-            cursor = mongo_client.db['ads_metrics'].find(query).sort('created_at', -1)
-            mapping_documents = [d for d in cursor if d.get('mappings')]
-            if mapping_documents:
-                logger.info(f"✓ {len(mapping_documents)} mapping(s) trouvé(s) dans MongoDB")
-            else:
-                logger.info("⚠ Aucun mapping trouvé dans MongoDB (fallback vers fichiers JSON)")
-
-        # Fallback: utiliser les fichiers JSON si pas de DB ou si DB vide
-        mapping_files = []
+        cursor = mongo_client.db['ads_metrics'].find(query).sort('timestamp', -1)
+        mapping_documents = list(cursor)
+        logger.info(f"Docs actifs type='mapping' trouvés: {len(mapping_documents)}")
         if not mapping_documents:
-            # Déterminer le pattern de recherche
-            if args.client:
-                logger.info(f"🎯 Analyse ciblée (fichiers): client '{args.client}'\n")
-                mapping_pattern = os.path.join(settings.MAPPINGS_DIR, f"{args.client}_mapping_*.json")
-            else:
-                logger.info("📊 Analyse de tous les clients (fichiers)\n")
-                mapping_pattern = os.path.join(settings.MAPPINGS_DIR, "*_mapping_*.json")
-
-            mapping_files = glob.glob(mapping_pattern)
-
-            if not mapping_files:
-                if args.client:
-                    logger.error(f"❌ Aucun fichier de mapping trouvé pour le client: {args.client}")
-                    logger.error(f"   Cherché dans: {settings.MAPPINGS_DIR}")
-                    logger.error(f"   Pattern: {args.client}_mapping_*.json")
-                else:
-                    logger.error("❌ Aucun fichier de mapping trouvé")
-                    logger.error(f"   Cherché dans: {settings.MAPPINGS_DIR}")
-                logger.error("\n💡 Lance d'abord la Phase 1 (ou assure-toi que les mappings sont dans MongoDB):")
-                logger.error("   python phase1_main.py")
-                return
-
-            logger.info(f"✓ {len(mapping_files)} fichier(s) de mapping trouvé(s)")
-            for mapping_file in mapping_files:
-                filename = os.path.basename(mapping_file)
-                logger.info(f"  • {filename}")
+            logger.error("❌ Aucun document actif de type 'mapping' pour ce filtre")
+            logger.error(f"Requête: {query}")
+            return
+        logger.info(f"✓ {len(mapping_documents)} document(s) prêt(s) à traiter")
 
         print()  # Ligne vide
         
@@ -108,29 +75,31 @@ def main():
         analyzer = AdAnalyzer()
         stats_gen = StatsGenerator()
         
-        # Analyser chaque client — source: MongoDB si présent, sinon fichiers
-        if mapping_documents:
-            source_list = mapping_documents
-        else:
-            source_list = mapping_files
+        # Analyser chaque client (MongoDB uniquement)
+        source_list = mapping_documents
 
         for i, src in enumerate(source_list, 1):
-            if mapping_documents:
-                client_label = src.get('client_id') or str(src.get('_id'))
-                logger.info(f"\n{'='*60}")
-                logger.info(f"📂 [{i}/{len(source_list)}] Traitement depuis DB: {client_label}")
-                logger.info(f"{'='*60}")
-            else:
-                logger.info(f"\n{'='*60}")
-                logger.info(f"📂 [{i}/{len(source_list)}] Traitement: {os.path.basename(src)}")
-                logger.info(f"{'='*60}")
+            client_label = src.get('client_id') or str(src.get('_id'))
+            logger.info(f"\n{'='*60}")
+            logger.info(f"📂 [{i}/{len(source_list)}] Traitement depuis DB: {client_label}")
+            logger.info(f"{'='*60}")
 
             try:
-                # Charger le mapping Phase 1
-                if mapping_documents:
-                    mapping_data = src  # document MongoDB
-                else:
-                    mapping_data = load_mapping_file(src)
+                # Charger le mapping Phase 1 depuis MongoDB
+                mapping_data = src
+
+                # Normaliser la clé des mappings (Phase 1 peut stocker 'sites_mapping')
+                if not mapping_data.get('mappings') and mapping_data.get('sites_mapping'):
+                    mapping_data['mappings'] = mapping_data['sites_mapping']
+
+                # Fallback sur total_ads depuis processing_metadata si absent
+                if 'total_ads' not in mapping_data and mapping_data.get('processing_metadata'):
+                    mapping_data['total_ads'] = mapping_data['processing_metadata'].get('total_ads', 0)
+
+                # Vérifier la présence finale de 'mappings'
+                if not mapping_data.get('mappings'):
+                    logger.warning(f"⏭️ Skip {client_label}: champ 'mappings' absent")
+                    continue
 
                 # Analyser le client
                 report = analyzer.analyze_client(mapping_data)
@@ -141,7 +110,7 @@ def main():
                 # Sauvegarder dans MongoDB (report détaillé)
                 if mongo_client and mapping_data.get('mappings'):
                     client_slug = report['client_id']
-                    domain = mapping_data['mappings'][0]['site']
+                    domain = mapping_data['mappings'][0].get('site')
 
                     mongo_id = mongo_client.save_ad_metrics(
                         client_slug=client_slug,

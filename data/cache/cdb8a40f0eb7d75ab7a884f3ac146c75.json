@@ -1,0 +1,444 @@
+{
+  "domain": "local-store.converty.shop",
+  "cached_at": "2025-12-28T20:30:42.846982",
+  "ads_count": 4,
+  "ads": [
+    {
+      "ad_archive_id": "1382127430017089",
+      "collation_count": 2,
+      "collation_id": "2308252913015884",
+      "page_id": "103262046190718",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "103262046190718",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/100094971437718/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Zoom shop",
+        "page_profile_picture_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/495753526_702750848779469_6296181093001228026_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PWVtGBqNVNYQ7kNvwFFlQzo&_nc_oc=Adkt3NsNIdKPIACkK8ANl6z5loD6Ohg7vXInwjz794lBEG_mGi4GxcTJzbn9BeR4dDQ&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AfkQX4WNOBbnl07Q6G5eSAf33BP424K-zjXgCBCcoFhA7g&oe=6957701D",
+        "event": null,
+        "caption": "local-store.converty.shop",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "🔩🚗 ممتص صدمات باب السيارة - 12 قطعة 🚗🔩\nحافظ على سيارتك من الخدوش والصدمات الصغيرة مع ممتص صدمات الباب المصمم لحمايتها بأناقة وفعالية! سهل التركيب ويضمن لك حماية دائمة.\n\n✨ الحماية المثلى لسيارتك! ✨"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "💥 للطلب إضغط على شراء 💥",
+        "link_url": "https://local-store.converty.shop/product/mmts-sdmt-bb-lsyr?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=makcley13cx5zdyo0",
+        "images": [],
+        "page_categories": [
+          "Boutique"
+        ],
+        "page_like_count": 18622,
+        "title": "✨ الحماية المثلى لسيارتك! ✨",
+        "videos": [
+          {
+            "video_hd_url": "https://video-cdg4-2.xx.fbcdn.net/v/t42.1790-2/491478375_995017632622391_960066680716891756_n.?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ic0C_vZfPWYQ7kNvwGvnj_K&_nc_oc=AdkJDL7hJ8Wo9XQwa0e7pPOPT8mwDzQrH939-JeIRrjBIQzrCBr_9nXbru6-ldEbqt8&_nc_zt=28&_nc_ht=video-cdg4-2.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AfmEB74XeziZrwDXoBfzescKm1Jc7sLddWffwVru7azRKw&oe=69576C3E",
+            "video_preview_image_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/496006552_1092270549393002_1845167314560034089_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vwk4MDbURr4Q7kNvwEvItR9&_nc_oc=AdmKwh1l9p6Pf3nkH7eL4lvOKcRaYlTi7xhC7gUn9t4ZT0br2Ypu98GHGe_RM5JGMFI&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_Afkkv4JqW5vhmMpLnqDViXbz_jMxwZUUPGS7DHiC1lhPNA&oe=69575879",
+            "video_sd_url": "https://video-cdg4-2.xx.fbcdn.net/v/t42.1790-2/491525075_670418819278878_2862356592172713820_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JXfrpHPZLiUQ7kNvwHAB70h&_nc_oc=AdmMWTvKrqbghoRxj-iiV1Le84hUoJHV307DHiJMbqEBO2miFPrFL7yuahhk5Ogtrak&_nc_zt=28&_nc_ht=video-cdg4-2.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AfnoqCEeITCMqVcpnddywL4afk6GOVh3RGFFT1fXyf9mnQ&oe=6957637E",
+            "watermarked_video_hd_url": "",
+            "watermarked_video_sd_url": ""
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Zoom shop",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1766908800,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766822400,
+      "contains_sensitive_content": false,
+      "total_active_time": 48772,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=local-store.converty.shop&search_type=keyword_unordered",
+      "total": 4,
+      "ads_count": 3,
+      "start_date_formatted": "2025-12-27 08:00:00",
+      "end_date_formatted": "2025-12-28 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1382127430017089"
+    },
+    {
+      "ad_archive_id": "2441002649680147",
+      "collation_count": null,
+      "collation_id": "2308252913015884",
+      "page_id": "103262046190718",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "103262046190718",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/100094971437718/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Zoom shop",
+        "page_profile_picture_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/495753526_702750848779469_6296181093001228026_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PWVtGBqNVNYQ7kNvwFFlQzo&_nc_oc=Adkt3NsNIdKPIACkK8ANl6z5loD6Ohg7vXInwjz794lBEG_mGi4GxcTJzbn9BeR4dDQ&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AfkQX4WNOBbnl07Q6G5eSAf33BP424K-zjXgCBCcoFhA7g&oe=6957701D",
+        "event": null,
+        "caption": "local-store.converty.shop",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "🔩🚗 ممتص صدمات باب السيارة - 12 قطعة 🚗🔩\nحافظ على سيارتك من الخدوش والصدمات الصغيرة مع ممتص صدمات الباب المصمم لحمايتها بأناقة وفعالية! سهل التركيب ويضمن لك حماية دائمة.\n\n✨ الحماية المثلى لسيارتك! ✨"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "💥 للطلب إضغط على شراء 💥",
+        "link_url": "https://local-store.converty.shop/product/mmts-sdmt-bb-lsyr?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=makcley13cx5zdyo0",
+        "images": [],
+        "page_categories": [
+          "Boutique"
+        ],
+        "page_like_count": 18622,
+        "title": "✨ الحماية المثلى لسيارتك! ✨",
+        "videos": [
+          {
+            "video_hd_url": "https://video-cdg4-2.xx.fbcdn.net/v/t42.1790-2/491478375_995017632622391_960066680716891756_n.?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ic0C_vZfPWYQ7kNvwGvnj_K&_nc_oc=AdkJDL7hJ8Wo9XQwa0e7pPOPT8mwDzQrH939-JeIRrjBIQzrCBr_9nXbru6-ldEbqt8&_nc_zt=28&_nc_ht=video-cdg4-2.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AfmEB74XeziZrwDXoBfzescKm1Jc7sLddWffwVru7azRKw&oe=69576C3E",
+            "video_preview_image_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/496006552_1092270549393002_1845167314560034089_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vwk4MDbURr4Q7kNvwEvItR9&_nc_oc=AdmKwh1l9p6Pf3nkH7eL4lvOKcRaYlTi7xhC7gUn9t4ZT0br2Ypu98GHGe_RM5JGMFI&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_Afkkv4JqW5vhmMpLnqDViXbz_jMxwZUUPGS7DHiC1lhPNA&oe=69575879",
+            "video_sd_url": "https://video-cdg4-2.xx.fbcdn.net/v/t42.1790-2/491525075_670418819278878_2862356592172713820_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JXfrpHPZLiUQ7kNvwHAB70h&_nc_oc=AdmMWTvKrqbghoRxj-iiV1Le84hUoJHV307DHiJMbqEBO2miFPrFL7yuahhk5Ogtrak&_nc_zt=28&_nc_ht=video-cdg4-2.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AfnoqCEeITCMqVcpnddywL4afk6GOVh3RGFFT1fXyf9mnQ&oe=6957637E",
+            "watermarked_video_hd_url": "",
+            "watermarked_video_sd_url": ""
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Zoom shop",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1766908800,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766822400,
+      "contains_sensitive_content": false,
+      "total_active_time": 48981,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=local-store.converty.shop&search_type=keyword_unordered",
+      "total": 4,
+      "ads_count": 3,
+      "start_date_formatted": "2025-12-27 08:00:00",
+      "end_date_formatted": "2025-12-28 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=2441002649680147"
+    },
+    {
+      "ad_archive_id": "1925333635032076",
+      "collation_count": 1,
+      "collation_id": "1070187878532382",
+      "page_id": "103262046190718",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "103262046190718",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/100094971437718/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Zoom shop",
+        "page_profile_picture_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/538451547_946668370976515_1771945232443260363_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C1YmTD1iP1AQ7kNvwGn9Atx&_nc_oc=AdnA0jnmVn-Vh69V3ACXCLZaP7DQq6iAQgOH2ojuYwK_uZJ8nQEiz5yD8YNonNvJ3eo&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AfllXRVlevOSWurwYWlFsaogm_wudDfUvmsSsX9zaPAh3Q&oe=6957635B",
+        "event": null,
+        "caption": "local-store.converty.shop",
+        "cta_text": "Order now",
+        "cards": [
+          {
+            "body": "كم مرة نسيت تسقي نباتاتك؟🌱\n جهاز ري النباتات بالتنقيط: الحل المثالي لنباتاتك! 💧\n\n✅يركب على أي قارورة بلاستيكية\n✅مجرد قارورة + الجهاز = زرع مرتاح وانت مرتاح!\n✅ مناسب لمعظم النباتات، سواء في الحديقة أو داخل المنزل.\n✅ تركيب بسيط وسريع: فقط زجاجة ماء وجهاز الري!\n✅ مصنوع من بلاستيك ABS القابل لإعادة الاستخدام، صديق للبيئة.\n💦 يوفر المياه بدقة لجذور النباتات دون إفراط أو تفريط.\n\n📢 عرض حصري:\n⏳ لا تفوّت الفرصة، نباتاتك تستحق الأفضل! 🌼",
+            "cta_type": "ORDER_NOW",
+            "caption": "",
+            "link_description": null,
+            "link_url": "https://local-store.converty.shop/product/d-ry-lnbtt-bltnqyt?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mew61o0e3j4gt1sxa",
+            "title": "📢اطلبه الآن وقل وداعًا للقلق على نباتاتك!",
+            "cta_text": "Order Now",
+            "video_hd_url": "https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPXQ2nU5qwhbna-uwLFUdFV_FLx_3gZt-wThyTKx-VuQAjLuOAbSzsQmwvIbcspgIJq8IaBPE8mFujxE1Gyx0PRnRpgnb6W4EGx_9SouPNXWA.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=video-cdg4-2.xx.fbcdn.net&_nc_ohc=Ifxgoy7URFYQ7kNvwHTAqhT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc3MDM2Mzg0MjM4MDc4MiwiYXNzZXRfYWdlX2RheXMiOjEyMSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f78fa42393082fd6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yOTQ1OURGOTA1RTY5NkQxRDhBOEMyMzc0NjIxQzI4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI0NDdFM0ZFNUEwMzBEMDVBRkFBNjY1Njc0Q0FGRjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcj-LyianeAhUCKAJDMywXQCJEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&_nc_zt=28&oh=00_AfnZWWa_042PCKB746k4u4cm6dqOx3xpoMsHfg2K92sgmw&oe=69576F14",
+            "video_preview_image_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/538263012_776383898109749_5507313592324071407_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mj2kL4OaGLoQ7kNvwFAGEdX&_nc_oc=Adk3iQ2CGvdWNntqruCTQEo-wTNaQZi3WUoZrSFvQnDeEpXPQlG-A5qnjzKTGcAQsFM&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AflvAtPn-rgQOzyJ3WPKAS7c8MFI-LythaWYdYctCMAItw&oe=69574343",
+            "video_sd_url": "https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPGXFm6BZdQcx3HGT0UtqFOJWSh0EqRug_uTmKBJBTEVDZt8Gc7oThX3-VdjfT7NKj7mTdvIfc1J_VcEojnir6GxIiu6tCJ7pKKZ224ig.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-cdg4-2.xx.fbcdn.net&_nc_ohc=4uFTXLHzhBoQ7kNvwHTjoRr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NzcwMzYzODQyMzgwNzgyLCJhc3NldF9hZ2VfZGF5cyI6MTIxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&_nc_zt=28&oh=00_Afmo-7p9GSFiYO9ezS_dyV12JCdy5wZZbbUC7_yMIvKthw&oe=6957605D",
+            "watermarked_video_hd_url": "",
+            "watermarked_video_sd_url": "",
+            "image_crops": [],
+            "original_image_url": null,
+            "resized_image_url": null,
+            "watermarked_resized_image_url": null
+          },
+          {
+            "body": "كم مرة نسيت تسقي نباتاتك؟🌱\n جهاز ري النباتات بالتنقيط: الحل المثالي لنباتاتك! 💧\n\n✅يركب على أي قارورة بلاستيكية\n✅مجرد قارورة + الجهاز = زرع مرتاح وانت مرتاح!\n✅ مناسب لمعظم النباتات، سواء في الحديقة أو داخل المنزل.\n✅ تركيب بسيط وسريع: فقط زجاجة ماء وجهاز الري!\n✅ مصنوع من بلاستيك ABS القابل لإعادة الاستخدام، صديق للبيئة.\n💦 يوفر المياه بدقة لجذور النباتات دون إفراط أو تفريط.\n\n📢 عرض حصري:\n⏳ لا تفوّت الفرصة، نباتاتك تستحق الأفضل! 🌼",
+            "cta_type": "ORDER_NOW",
+            "caption": "",
+            "link_description": null,
+            "link_url": "https://local-store.converty.shop/product/d-ry-lnbtt-bltnqyt?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mew61o0e3j4gt1sxa",
+            "title": "📢اطلبه الآن وقل وداعًا للقلق على نباتاتك!",
+            "cta_text": "Order Now",
+            "video_hd_url": "https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPXQ2nU5qwhbna-uwLFUdFV_FLx_3gZt-wThyTKx-VuQAjLuOAbSzsQmwvIbcspgIJq8IaBPE8mFujxE1Gyx0PRnRpgnb6W4EGx_9SouPNXWA.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=video-cdg4-2.xx.fbcdn.net&_nc_ohc=Ifxgoy7URFYQ7kNvwHTAqhT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc3MDM2Mzg0MjM4MDc4MiwiYXNzZXRfYWdlX2RheXMiOjEyMSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f78fa42393082fd6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yOTQ1OURGOTA1RTY5NkQxRDhBOEMyMzc0NjIxQzI4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI0NDdFM0ZFNUEwMzBEMDVBRkFBNjY1Njc0Q0FGRjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcj-LyianeAhUCKAJDMywXQCJEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&_nc_zt=28&oh=00_AfnZWWa_042PCKB746k4u4cm6dqOx3xpoMsHfg2K92sgmw&oe=69576F14",
+            "video_preview_image_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/539733616_4036353653284945_6481415511571677198_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uEcai8KHNZUQ7kNvwES97UJ&_nc_oc=AdkWNid6nJDW6lwOfYTj6cTzUj1ayeJkTmJEHcfbXyMVCAsDlH6ynSLxqtN29Q13K1g&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_Aflew68TA-ZiJIzr1jh0KcWPxFT5fcqUXnTMeJkNOetmXg&oe=695742E3",
+            "video_sd_url": "https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPGXFm6BZdQcx3HGT0UtqFOJWSh0EqRug_uTmKBJBTEVDZt8Gc7oThX3-VdjfT7NKj7mTdvIfc1J_VcEojnir6GxIiu6tCJ7pKKZ224ig.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-cdg4-2.xx.fbcdn.net&_nc_ohc=4uFTXLHzhBoQ7kNvwHTjoRr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NzcwMzYzODQyMzgwNzgyLCJhc3NldF9hZ2VfZGF5cyI6MTIxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&_nc_zt=28&oh=00_Afmo-7p9GSFiYO9ezS_dyV12JCdy5wZZbbUC7_yMIvKthw&oe=6957605D",
+            "watermarked_video_hd_url": "",
+            "watermarked_video_sd_url": "",
+            "image_crops": [],
+            "original_image_url": null,
+            "resized_image_url": null,
+            "watermarked_resized_image_url": null
+          }
+        ],
+        "body": {
+          "text": "{{product.brand}}"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "DCO",
+        "link_description": "{{product.description}}",
+        "link_url": "https://local-store.converty.shop/product/d-ry-lnbtt-bltnqyt?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mew61o0e3j4gt1sxa",
+        "images": [],
+        "page_categories": [
+          "Boutique"
+        ],
+        "page_like_count": 18622,
+        "title": "{{product.name}}",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Zoom shop",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1766908800,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766736000,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=local-store.converty.shop&search_type=keyword_unordered",
+      "total": 4,
+      "ads_count": 3,
+      "start_date_formatted": "2025-12-26 08:00:00",
+      "end_date_formatted": "2025-12-28 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1925333635032076"
+    },
+    {
+      "ad_archive_id": "2959305034453452",
+      "collation_count": 1,
+      "collation_id": "1238630664645642",
+      "page_id": "103262046190718",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "103262046190718",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/100094971437718/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Zoom shop",
+        "page_profile_picture_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/569346312_1114193020920032_2458443409253976066_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TLmPvcMpO8cQ7kNvwE2sPmO&_nc_oc=AdkzpDVNHF2QJNgkHCAcVFU4D-JmhCPVcch82UIbi4lQ5GGemd5GnoI1gc8xU9u7coU&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_Afn6ktCfFjrv_hxzLiCufW7Aq9KOMpH2YCHpHUcFbKtG2A&oe=69576DC4",
+        "event": null,
+        "caption": "local-store.converty.shop",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "كم مرة نسيت تسقي نباتاتك؟🌱\n جهاز ري النباتات بالتنقيط: الحل المثالي لنباتاتك! 💧\n\n✅يركب على أي قارورة بلاستيكية\n✅مجرد قارورة + الجهاز = زرع مرتاح وانت مرتاح!\n✅ مناسب لمعظم النباتات، سواء في الحديقة أو داخل المنزل.\n✅ تركيب بسيط وسريع: فقط زجاجة ماء وجهاز الري!\n✅ مصنوع من بلاستيك ABS القابل لإعادة الاستخدام، صديق للبيئة.\n💦 يوفر المياه بدقة لجذور النباتات دون إفراط أو تفريط.\n\n📢 عرض حصري:\n⏳ لا تفوّت الفرصة، نباتاتك تستحق الأفضل! 🌼"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "🛒 اطلبه الآن",
+        "link_url": "https://local-store.converty.shop/product/d-ry-lnbtt-bltnqyt?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mh13qhx11iftu1kxc",
+        "images": [],
+        "page_categories": [
+          "Boutique"
+        ],
+        "page_like_count": 18622,
+        "title": "📢اطلبه الآن وقل وداعًا للقلق على نباتاتك!",
+        "videos": [
+          {
+            "video_hd_url": "https://video-cdg4-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQM7FdLWCplSW5YYRorlG5lft3rw9fgK-tvqwosYVJkh2u-BF8vuhnMcS5_bHbBesPDoAPrRsrYGemi14x9WBSP7oHZZH45EUVaz7CFtZwlvpA.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=video-cdg4-3.xx.fbcdn.net&_nc_ohc=V8FEPE9hGbkQ7kNvwF5t-cx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDI3ODk5NzQ1Nzc5ODAsImFzc2V0X2FnZV9kYXlzIjoxMjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c31ef500c747dd40&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80RDQwMkVDREU0NkMyNjZBRjhGOUUwREM1NzkyRjM4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EzNDIwRjE3MTczNzRBRkRFM0QwQUQzQzdGQjBCNTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4zLbarbjQBBUCKAJDMywXQD7EGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&_nc_zt=28&oh=00_Afkp7DRoeP0S29nqOWTb7UBRIE2cIuJlHhCUMwAP8NjJ1w&oe=69574F42",
+            "video_preview_image_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/569190127_24246512688355291_7539617019447047295_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P8wbR1aMLGEQ7kNvwHpURTC&_nc_oc=AdkigCNcYCMw9olE8JVz_SU2Q_rrAqULhiZgNiXirclYHl33d-jc_4ZJmFvI80l9xcw&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&oh=00_AfkgKuqoLm09FzWCM8YJ9kObhWFo5Y5lAnfKBVa039SCig&oe=695753EF",
+            "video_sd_url": "https://video-cdg4-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQOFCQw73TJh7hznxqgYzroMfqqoBz6LfamWx0dSOZA4Vj13I9n8448kDBMoT3XkNUt6aLA5J6_ZG98jfyKTDihrxwiulVhvbX8ODJXF_w.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-cdg4-3.xx.fbcdn.net&_nc_ohc=OPQC3DeFUjUQ7kNvwEuK_uM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMwMjc4OTk3NDU3Nzk4MCwiYXNzZXRfYWdlX2RheXMiOjEyMCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=v2_T_XElJSbIG4T9fl8W6Q&_nc_zt=28&oh=00_AflkTbyHXwJOxwijq2r4ZyH3_FoRYspGGa52Ljx09k-MRw&oe=69575DE0",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Zoom shop",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1766908800,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766736000,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=local-store.converty.shop&search_type=keyword_unordered",
+      "total": 4,
+      "ads_count": 3,
+      "start_date_formatted": "2025-12-26 08:00:00",
+      "end_date_formatted": "2025-12-28 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=2959305034453452"
+    }
+  ]
+}
