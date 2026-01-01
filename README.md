@@ -328,3 +328,106 @@ python phase2_main.py --client vervane
 ```bash
 rm -rf data/cache/*
 ```
+
+---
+
+## Chapter 2
+### Conception et Architecture
+
+#### Introduction
+Ce chapitre décrit la conception globale et l'architecture technique de la solution. Il précise les exigences fonctionnelles et non fonctionnelles, explique les choix d’architecture, détaille les principaux modules, le modèle de données et les flux de traitement entre la Phase 1 (Discovery & Mapping), la Phase 2 (Classification & Reporting) et le Dashboard. Les schémas proposés visent à clarifier le rôle de chaque composant et leur interaction.
+
+#### 2.1 Exigences Fonctionnelles
+| ID | Exigence | Description | Modules associés |
+|----|----------|-------------|------------------|
+| F1 | Découverte des publicités | Identifier automatiquement les publicités Facebook liées à un domaine client | [src/discovery/ads_collector.py](src/discovery/ads_collector.py), [src/clients/apify_client.py](src/clients/apify_client.py) |
+| F2 | Extraction des pages Facebook | Déduire les pages Facebook pertinentes à partir des publicités filtrées | [src/discovery/page_extractor.py](src/discovery/page_extractor.py) |
+| F3 | Mapping site ↔ pages | Construire un mapping entre le domaine client et les pages Facebook trouvées | [src/discovery/site_mapper.py](src/discovery/site_mapper.py) |
+| F4 | Persistance MongoDB | Sauvegarder mapping et rapports d’analyse | [src/database/mongo_client.py](src/database/mongo_client.py) |
+| F5 | Classification des publicités | Déterminer CONVERTY vs CONCURRENT vs UNKNOWN via URLs/DNS | [src/classification/ad_analyzer.py](src/classification/ad_analyzer.py), [src/classification/url_classifier.py](src/classification/url_classifier.py), [src/classification/dns_checker.py](src/classification/dns_checker.py) |
+| F6 | Génération de métriques | Calculer ratios et top concurrents | [src/reporting/stats_generator.py](src/reporting/stats_generator.py), [src/analytics/metrics_calculator.py](src/analytics/metrics_calculator.py) |
+| F7 | Visualisation | Afficher KPIs, distributions, concurrents | [dashboard.py](dashboard.py), [src/analytics/charts.py](src/analytics/charts.py) |
+
+#### 2.2 Exigences Non Fonctionnelles
+| ID | Exigence | Détail | Mise en œuvre |
+|----|----------|--------|---------------|
+| NF1 | Performance | Limiter appels réseau et I/O | Cache JSON local (ads), TTL DNS, `count` optimisé Apify |
+| NF2 | Coût | Maîtrise du budget Apify | Seuils d’alerte, arrêt automatique, budget session (voir Phase 1) |
+| NF3 | Fiabilité | Reprise sur erreur | Retries exponentiels Apify, skip clients inactifs, index MongoDB |
+| NF4 | Traçabilité | Logs détaillés | [src/utils/logger.py](src/utils/logger.py), traces par batch et par client |
+| NF5 | Évolutivité | Modules découplés | Packages `discovery`, `classification`, `analytics`, `database` |
+
+#### 2.3 Architecture Logicielle
+L’architecture est organisée en modules spécialisés, orchestrés par des points d’entrée:
+- Point d’entrée Phase 1: [phase1_main.py](phase1_main.py) — Discovery & Mapping, coûts réels Apify, persistance mapping.
+- Point d’entrée Phase 2: [phase2_main.py](phase2_main.py) — Classification détaillée par pages, agrégation de concurrents, persistance des rapports.
+- Dashboard: [dashboard.py](dashboard.py) — Lecture MongoDB, calcul de métriques et visualisations interactives.
+
+Principaux modules:
+- Découverte: [src/discovery/site_mapper.py](src/discovery/site_mapper.py), [src/discovery/ads_collector.py](src/discovery/ads_collector.py), [src/discovery/page_extractor.py](src/discovery/page_extractor.py)
+- Classification: [src/classification/ad_analyzer.py](src/classification/ad_analyzer.py), [src/classification/url_classifier.py](src/classification/url_classifier.py), [src/classification/dns_checker.py](src/classification/dns_checker.py)
+- Données & Persistance: [src/database/mongo_client.py](src/database/mongo_client.py), [config/settings.py](config/settings.py)
+- Analytics & UI: [src/analytics/data_loader.py](src/analytics/data_loader.py), [src/analytics/metrics_calculator.py](src/analytics/metrics_calculator.py), [src/analytics/charts.py](src/analytics/charts.py)
+- Utilitaires: [src/utils/batch_manager.py](src/utils/batch_manager.py), [src/utils/cost_tracker.py](src/utils/cost_tracker.py), [src/utils/simple_cache.py](src/utils/simple_cache.py)
+
+#### 2.4 Diagramme de Flux (Phase 1 → Phase 2 → Dashboard)
+Le pipeline se déroule en trois étapes complémentaires: découverte, classification et visualisation.
+
+```mermaid
+flowchart LR
+  A[Stores (MongoDB)] -->|Batch load| B[phase1_main.py]
+  B --> C[SiteMapper]
+  C --> D[AdsCollector]
+  D --> E[ApifyFacebookAdsClient]
+  D -->|Filtrage domaine| F[Pages Facebook]
+  C --> G[Mapping: site ↔ pages]
+  G --> H[(MongoDB ads_metrics type=mapping)]
+  H --> I[phase2_main.py]
+  I --> J[AdAnalyzer]
+  J --> K[URLClassifier + DNSChecker]
+  J --> L[Rapport (metrics, concurrents)]
+  L --> M[(MongoDB ads_metrics type=report)]
+  M --> N[Dashboard Streamlit]
+  N --> O[MetricsCalculator + ChartGenerator]
+```
+
+Explications:
+- Filtres stricts en Phase 1 (domaine exact dans les URLs) pour réduire bruit et coûts.
+- Persistance en `ads_metrics` avec `type='mapping'` (Phase 1) et `type='report'` (Phase 2).
+- Le Dashboard lit les deux types: KPIs (Phase 1) et analyse concurrentielle (Phase 2).
+
+#### 2.5 Modèle de Données
+Deux sous-types coexistent dans la collection `ads_metrics`:
+- Documents `mapping` (Phase 1): statut d’activité, pages Facebook découvertes, métadonnées de traitement.
+- Documents `report` (Phase 2): métriques agrégées, détails par page, concurrents.
+
+Extraits représentatifs: voir [Structure des Données](#-structure-des-données).
+
+Index principaux (voir [src/database/mongo_client.py](src/database/mongo_client.py)):
+- `idx_client_type (client_id, type)` pour requêtes ciblées.
+- `idx_analyzed_desc (analyzed_at)` pour derniers rapports.
+- `idx_type_timestamp (type, timestamp)` pour tri temporel.
+
+#### 2.6 Mécanismes Techniques Clés
+- Gestion des coûts: [src/utils/cost_tracker.py](src/utils/cost_tracker.py) suit la session Apify, applique seuils et arrêt.
+- Cache des ads: [src/utils/simple_cache.py](src/utils/simple_cache.py) stocke les ads filtrées par domaine (TTL configurable).
+- DNS intelligence: [src/classification/dns_checker.py](src/classification/dns_checker.py) combine A record, CNAME, NS avec cache TTL.
+- Retries réseau: [src/clients/apify_client.py](src/clients/apify_client.py) intègre des retries exponentiels pour la collecte.
+
+#### 2.7 Graphes et Visualisations (Dashboard)
+- Répartition Actifs/Inactifs (pie): illustre la part de clients en activité détectée en Phase 1.
+- Distribution du volume d’ads (bar): histogrammes séparés pour actifs et inactifs.
+- Séries temporelles (line/area): progression cumulée des clients traités et nouveaux par jour.
+- Top concurrents (bar horizontal): nombre d’ads par domaine concurrent; pie plateformes (Shopify/YouCan/etc.).
+
+Chaque graphe est alimenté par `MetricsCalculator` et rendu par `ChartGenerator`. Les filtres (période, seuil d’ads, statut) modulent la vue et les agrégations.
+
+#### 2.8 Justification des Choix d’Architecture
+- Découplage fort entre collecte, classification et UI pour faciliter l’évolution.
+- MongoDB centralise mappings et rapports, avec indexes adaptés aux requêtes fréquentes.
+- Filtrage strict des ads en Phase 1 pour limiter coûts et faux positifs.
+- Vérification DNS pour robustesse de la classification au-delà du simple matching d’URL.
+- Dashboard Streamlit pour la rapidité d’itération et une visualisation interactive immédiate.
+
+#### Conclusion
+La conception proposée garantit une chaîne de traitement fiable, maîtrisée en coûts et extensible. Les modules sont faiblement couplés, les données sont structurées pour l’analyse, et les visuels rendent l’information exploitable pour le pilotage. Cette base solide permet d’aborder le chapitre suivant consacré à la mise en œuvre détaillée et aux expérimentations.
