@@ -1,18 +1,27 @@
 # 📊 Sellers Ads Metrics - Intelligence Marketing Meta Ads
 
+## 📌 Contexte
+Converty est une startup tunisienne spécialisée dans la création de sites e-commerce. Son modèle économique dépend directement des performances commerciales de ses clients. Ce projet vise à fournir une **visibilité stratégique** sur l’activité publicitaire Facebook des clients, en identifiant ceux qui utilisent des plateformes concurrentes et en permettant une intervention proactive.
+
 ## 🎯 Vue d'ensemble
 
 Système d'analyse automatisé pour monitorer et classifier les publicités Meta (Facebook) de **21,764 clients e-commerce**. Le projet identifie les clients actifs, analyse leurs stratégies publicitaires et détecte la concurrence via un pipeline en deux phases + dashboard interactif.
 
 ---
+## 🎯 Objectifs
+- Identifier automatiquement les pages Facebook associées aux clients e-commerce
+- Collecter et analyser leurs publicités actives sur Meta Ads
+- Classifier les publicités selon leur provenance (Converty / Concurrent / Inconnu)
+- Générer des rapports analytiques et un dashboard interactif pour la prise de décision
 
 ## ✨ Fonctionnalités principales
+Le système repose sur une **architecture bi-phasée** :
 
 ### 📍 Phase 1 : Discovery & Mapping
 - **Scraping automatisé** via Apify Meta Ad Library Actor
 - **Classification activité** : Actifs (avec publicités) vs Inactifs (sans publicités)
-- **Tracking des coûts** en temps réel (budget $5 Apify)
-- **Résultat** : 718 clients traités → 40 actifs (5.6%) + 678 inactifs (94.4%)
+- **Tracking des coûts** en temps réel (budget $5 Apify freemium puis passage au plan premium de 39$/mois)
+- **Résultat** : 4343 clients traités (20%)
 
 ### 🎯 Phase 2 : Classification Intelligence
 - **Analyse sémantique** des URLs de destination des publicités
@@ -36,7 +45,21 @@ Interface interactive avec 5 sections analytiques :
 
 ## 🚀 Démarrage Rapide
 
-### Installation
+## 🚀 Installation et exécution
+
+### 1. Cloner le dépôt
+```bash
+git clone <repository-url>
+cd sellers_ads_metrics
+
+### 2. Créer et activer l'environnement virtuel
+```bash
+python -m venv venv
+# Windows :
+venv\Scripts\activate
+# Linux/Mac :
+source venv/bin/activate
+```
 
 ```bash
 pip install -r requirements.txt
@@ -47,9 +70,12 @@ pip install -r requirements.txt
 ```bash
 # .env
 APIFY_API_TOKEN=your_token_here
-MONGODB_URI=mongodb://localhost:27017
+MONGODB_URI=votre_uri_mongodb
 ```
-
+**Phase 1 : Discovery**
+```bash
+python phase1_main.py
+```
 **Phase 2 : Classification**
 ```bash
 python phase2_main.py
@@ -103,7 +129,7 @@ sellers-ads-metrics/
 
 ## 📊 Résultats Clés
 
-### 🔍 Phase 1 - Discovery (718 clients analysés)
+### 🔍 Phase 1 - Discovery (718 clients analysés avec un budget de 5$ freemium)
 
 | Métrique | Valeur | Détail |
 |----------|--------|--------|
@@ -236,16 +262,15 @@ sellers-ads-metrics/
 - **Concurrence faible** → Position dominante avec seulement 0.9% de concurrent ads
 
 **⚠️ Points d'attention**
-- **3.3% clients traités** → 96.7% restent à analyser (21,046 clients)
-- **Budget limité** → Nécessite upgrade Apify ou attente reset mensuel
-- **Concurrents émergents** → WhatsApp API commence à apparaître
+- **20% clients traités** → 80% restent à analyser (4343 / 21,046 clients)
+- **Budget de 5$ (freemium)** → **Upgrade Apify (Premium 39$/mois)**
+- **Concurrents émergents**
 
 ### 🎯 Recommandations
 
 1. **Court terme** (1 mois)
    - Analyser les 21,046 clients restants (budget additionnel)
    - Cibler les clients inactifs pour campagnes de réactivation
-   - Monitorer WhatsApp API comme concurrent émergent
 
 2. **Moyen terme** (3 mois)
    - Automatiser le scraping incrémental (hebdomadaire)
@@ -293,17 +318,6 @@ Le système intègre un **CostTracker** qui :
    Clients traités : 718
 ──────────────────────────────────────────────────────
 ```
-
-### Scripts Disponibles
-
-```bash
-# Vérifier les coûts
-python scripts/view_costs.py
-
-# Analyse rapide
-python scripts/quick_cost_check.py
-```
-
 ---
 
 ## 🛠️ Développement & Maintenance
@@ -328,6 +342,19 @@ python phase2_main.py --client vervane
 ```bash
 rm -rf data/cache/*
 ```
+🔮 Perspectives d'évolution
 
+- Extension à d’autres plateformes (Instagram Ads, Google Ads)
+- Intégration de l’IA pour la détection prédictive de churn
+- Automatisation des alertes par email
+- Conteneurisation avec Docker et déploiement cloud
+
+👥 Auteurs
+
+Ghofrane Mahfoudhi
+Sirine Makni
+
+📄 Licence
+Ce projet est développé dans le cadre d’un projet tutoré à SUP'COM. Tous droits réservés aux auteurs et à Converty.
 ---
 
