@@ -351,10 +351,12 @@ rm -rf data/cache/*
 
 👥 Auteurs
 
-Ghofrane Mahfoudhi
-Sirine Makni
+- Ghofrane Mahfoudhi
+
+- Sirine Makni
 
 📄 Licence
+
 Ce projet est développé dans le cadre d’un projet tutoré à SUP'COM. Tous droits réservés aux auteurs et à Converty.
 ---
 
