@@ -1,0 +1,292 @@
+{
+  "domain": "florence-store.converty.shop",
+  "cached_at": "2026-01-05T15:58:18.467452",
+  "ads_count": 2,
+  "ads": [
+    {
+      "ad_archive_id": "916373340448300",
+      "collation_count": 1,
+      "collation_id": "2269029996815062",
+      "page_id": "255395710996475",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "255395710996475",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/florencestore.tn/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Florence store",
+        "page_profile_picture_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/467714945_584400903960951_1362954195088992259_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0LoSDFR3SFgQ7kNvwG3tOjk&_nc_oc=Adm_0Xq9fTjNOG6FKZ4bvUN_ei14tK8z3NOgzEZJxC7k0UJeUU15ma4a9Y4RsEgU4MI&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfqR-0BBgq33pa72YXjU1bW06oYyBwJKjTWAOAtaOkiSdg&oe=6961B18A",
+        "event": null,
+        "caption": "florence-store.converty.shop",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "🔥 Prix 57DT 🔥\n✅livraison 8DT\n✅ref : B-80\n✅ Pointure 36 37 38 39 40 41\n✅ Avec la possibilité d'échange\n✅ حل و شوف قبل ما تخلص ✅"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "VIDEO",
+        "link_description": null,
+        "link_url": "https://florence-store.converty.shop/category/basket-b-80?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m36j4jagexr595k4",
+        "images": [],
+        "page_categories": [
+          "Shopping"
+        ],
+        "page_like_count": 8014,
+        "title": null,
+        "videos": [
+          {
+            "video_hd_url": "https://video.fbnx1-1.fna.fbcdn.net/v/t42.1790-2/467066371_916373407114960_846564784867294704_n.?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EIqxBMTjYuUQ7kNvwGIpC7l&_nc_oc=AdmwI8J8KydJNGzjYDYp0YhtUUIqom2esC2g5wbq5R6noQA8OnmSn5GOclXSA5clX7Y&_nc_zt=28&_nc_ht=video.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfoHukKBjeR9L0g6w0XegCr20tt-dWVnWoeO9_ERI2G0CA&oe=6961A634",
+            "video_preview_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/467431976_577152998045508_4641859502595678733_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eNd3vafUwdwQ7kNvwE585sq&_nc_oc=AdkYvf-BWtZzOGBhF8REQUFkrEzMNMTjw6ehph1pErGp61bnXD0fNgiJv107F_HJ4DQ&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfrhiDqHSORmeYxb1_J8401hOwcYOjLpAl5uv8XP8DywFQ&oe=6961ABDE",
+            "video_sd_url": "https://video.fbnx1-1.fna.fbcdn.net/v/t42.1790-2/467345883_449627338178189_2362652134771373593_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HlVuc5I9Q5cQ7kNvwEqtMaH&_nc_oc=AdlNTBJTIv15kNNI_PVR_GV-Wcn8ecw0u5JxE2oNRZhLjNYTphrK3CPjXgaSKADYpeQ&_nc_zt=28&_nc_ht=video.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfopWzcdyKvEI4FZMghcw_f78k0vPRJdMW6fGSPrgnyocg&oe=6961BD68",
+            "watermarked_video_hd_url": "",
+            "watermarked_video_sd_url": ""
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": false,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Florence store",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": true,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1741248000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "start_date": 1732003200,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=florence-store.converty.shop&search_type=keyword_unordered",
+      "total": 2,
+      "ads_count": 2,
+      "start_date_formatted": "2024-11-19 08:00:00",
+      "end_date_formatted": "2025-03-06 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=916373340448300"
+    },
+    {
+      "ad_archive_id": "923654156490735",
+      "collation_count": 1,
+      "collation_id": "1102373531019408",
+      "page_id": "255395710996475",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "255395710996475",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/florencestore.tn/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Florence store",
+        "page_profile_picture_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465794029_646084991302837_8694056745349791862_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ezWFtfY7ThcQ7kNvwFs90Z7&_nc_oc=AdlDxf9qRFY1WvGGrwmUvxKGm4m7-28E-Qi8I0iTaylyqegXUh35KiPZp6eGDY2JTzk&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfpGxdTwkEZzjXFZkp1pI1nrwaQJ706lWLE8BHoR6AHn-Q&oe=69619DD1",
+        "event": null,
+        "caption": "florence-store.converty.shop",
+        "cta_text": "Shop now",
+        "cards": [
+          {
+            "body": " ",
+            "cta_type": "SHOP_NOW",
+            "caption": "florence-store.converty.shop",
+            "link_description": " ",
+            "link_url": "https://florence-store.converty.shop/category/basket-b-80?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m36j4jagexr595k4",
+            "title": "✅ حل و شوف قبل ما تخلص ✅",
+            "cta_text": "Shop Now",
+            "video_hd_url": null,
+            "video_preview_image_url": null,
+            "video_sd_url": null,
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465981150_869663255288077_2150823132632638721_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=00nFDihkwccQ7kNvwFcHZy7&_nc_oc=Adk_v5S3bspMVqkf0zMj__NnwjAsrSXT9Y_Vm7JMRlby5UhqqNJTnGL6ccrKs7Lck6s&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_Afo6Xn-SmDtxBz_pc-pQ9zKwYsf76VzCO-7YPE3adPnQ1w&oe=6961A3E6",
+            "resized_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/466044992_536824709268783_329574438398969138_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K9Y8IE2AYBsQ7kNvwHjLEMH&_nc_oc=Adn0Z3gsqagF1gCDJLZtcKawDTtu4zVnOvL88YOJ-aYEtSIsKcYcmCYSjDz6_d72be8&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfryHFy88Ux0v7wzR6SFXq6ADqPPJ8kXWzK8bJYiMLOq5A&oe=69619B2C",
+            "watermarked_resized_image_url": ""
+          },
+          {
+            "body": " ",
+            "cta_type": "SHOP_NOW",
+            "caption": "florence-store.converty.shop",
+            "link_description": " ",
+            "link_url": "https://florence-store.converty.shop/category/basket-b-80?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m36j4jagexr595k4",
+            "title": "✅ حل و شوف قبل ما تخلص ✅",
+            "cta_text": "Shop Now",
+            "video_hd_url": null,
+            "video_preview_image_url": null,
+            "video_sd_url": null,
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465714187_895666795613761_1443703883960981685_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2rLm69a6CN8Q7kNvwHuDL_R&_nc_oc=AdkxeXgDqeC3tVurxAumHfvfEdC8guvTBhnxJEIDZKDoagmZclmqTey59Mwn4wFCANM&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_Afo_9mmx2WKFCtVhJhfG_IX1W8gRlqyCWzM-KVRQZPNQeg&oe=6961B52C",
+            "resized_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465728998_420249944467850_7421173135729557856_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zZ_7WP1VIZYQ7kNvwHVHl7r&_nc_oc=AdkGbJmqlE8uTNbhfG3S0zou-Mh85fTXzZ_wsbffZaaeoWK37mGvjK3htkM1gp0LGRY&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfqJpbfWdodpEDklVZWqGo9xW-2uogvbV-EXfCe5j0NEOA&oe=6961A84E",
+            "watermarked_resized_image_url": ""
+          },
+          {
+            "body": " ",
+            "cta_type": "SHOP_NOW",
+            "caption": "florence-store.converty.shop",
+            "link_description": " ",
+            "link_url": "https://florence-store.converty.shop/category/basket-b-80?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m36j4jagexr595k4",
+            "title": "✅ حل و شوف قبل ما تخلص ✅",
+            "cta_text": "Shop Now",
+            "video_hd_url": null,
+            "video_preview_image_url": null,
+            "video_sd_url": null,
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465990938_560030496787524_7465371926776420595_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hjT04xb8s18Q7kNvwEVYYo_&_nc_oc=AdmgPotFpWjP3rHwcZo-8c8Imz8BS7ep-6TueipqW__8Vv5Hm73xe1wIKCCYmlBEvtU&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_Afpz2gsjssgk-vMlTvo3daUknPSCbb9wB476k1hnPr5bQg&oe=6961BB5E",
+            "resized_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465894681_568062715676925_6116594043991154789_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y-5j8ZWzUT4Q7kNvwFvDjDA&_nc_oc=AdmmqliMqiz4uXrilWqFFtU4Pg8unru6W4vBUvInNP0RjGbbJ9LKQVcpdSU6_YQpr5k&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_Afrzsmas7d5c8JBaesUp2Qjrh8rfSraWelmD7acH7d3T3w&oe=69618911",
+            "watermarked_resized_image_url": ""
+          },
+          {
+            "body": " ",
+            "cta_type": "SHOP_NOW",
+            "caption": "florence-store.converty.shop",
+            "link_description": " ",
+            "link_url": "https://florence-store.converty.shop/category/basket-b-80?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m36j4jagexr595k4",
+            "title": "✅ حل و شوف قبل ما تخلص ✅",
+            "cta_text": "Shop Now",
+            "video_hd_url": null,
+            "video_preview_image_url": null,
+            "video_sd_url": null,
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465726272_542444318710507_4975502091193735222_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tNig8RDHFvsQ7kNvwGhsktm&_nc_oc=Admq-dmE88kRscQUBFb2uPheTC5RmbMg3nKiDQuPIIq_jWWAt8tQmEc02DWZpGY36EM&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfotDDWIxSjBk-xSJPRxE2qUYlNlJFQz3ueKIUAUgaGomQ&oe=6961BBCA",
+            "resized_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465922217_490426500692483_3830416637816799244_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L0-r3S49qzUQ7kNvwEWtxCp&_nc_oc=AdlVYXBmXe_LD8EhylVIY8lr0BRXReN3r6ablYnuL5lT8nPQpKJT6FxsKqQhflPfosk&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfqaTuTGDft8H6dlT9dJgIwoIsEqTUR5WpERjp7OBhM9JQ&oe=69618F0D",
+            "watermarked_resized_image_url": ""
+          },
+          {
+            "body": " ",
+            "cta_type": "SHOP_NOW",
+            "caption": "florence-store.converty.shop",
+            "link_description": " ",
+            "link_url": "https://florence-store.converty.shop/category/basket-b-80?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m36j4jagexr595k4",
+            "title": "✅ حل و شوف قبل ما تخلص ✅",
+            "cta_text": "Shop Now",
+            "video_hd_url": null,
+            "video_preview_image_url": null,
+            "video_sd_url": null,
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465861705_556478953693036_7692878740139522476_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1j-N00e0H3YQ7kNvwHHXuuR&_nc_oc=Adn5EKM2rBAc4zd0sHXpd7O8PsfleAev81tZScZsAVgEK5tPApy91n16Iq8HB4P4t3M&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_Afp9dlLhdiFTsb8Uwe0Y2k-DhXq9bT9ULn7yvD_OPx6Gcg&oe=6961B282",
+            "resized_image_url": "https://scontent.fbnx1-1.fna.fbcdn.net/v/t39.35426-6/465928086_1604503616818483_7667983579022282762_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QV6hDGiHfx8Q7kNvwHVQWpz&_nc_oc=Adld6xb1-aKbEEKzXvjMFCSncpdYsJOADnrXMKBtjXHgWSAH7hxbuT6Abbn6FOfuQ_k&_nc_zt=14&_nc_ht=scontent.fbnx1-1.fna&_nc_gid=5BEKDoW6aEbsB_0eZRKpMw&oh=00_AfoYxxMkhklkNx6eFL-PzUCEGRz8Eubh0d4cG4F2_SsMuw&oe=6961ACB2",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "body": {
+          "text": "🔥 Prix 57DT 🔥\n✅livraison 8DT\n✅ref : B-80\n✅ Pointure 36 37 38 39 40 41\n✅ Avec la possibilité d'échange\n✅ حل و شوف قبل ما تخلص ✅"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "CAROUSEL",
+        "link_description": null,
+        "link_url": "https://florence-store.converty.shop/category/basket-b-80?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=m36j4jagexr595k4",
+        "images": [],
+        "page_categories": [
+          "Shopping"
+        ],
+        "page_like_count": 8014,
+        "title": "Florence store",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": false,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Florence store",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": true,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1739865600,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "start_date": 1730880000,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=florence-store.converty.shop&search_type=keyword_unordered",
+      "total": 2,
+      "ads_count": 2,
+      "start_date_formatted": "2024-11-06 08:00:00",
+      "end_date_formatted": "2025-02-18 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=923654156490735"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "domain": "car-thage-store.store",
+  "cached_at": "2026-01-05T10:16:04.755455",
+  "ads_count": 1,
+  "ads": [
+    {
+      "ad_archive_id": "1225953652969302",
+      "collation_count": 1,
+      "collation_id": "1768564037141508",
+      "page_id": "456333744224215",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "456333744224215",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61565752090442/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Carthage store ",
+        "page_profile_picture_url": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.35426-6/608579525_1309738031188493_3177149184383140321_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yz6gT6wtfisQ7kNvwE93vlJ&_nc_oc=AdmWUnvO_u7SIKRG9Ex9qVw3sn6NKLdTpOjragtaonnpNCEXG75FQcL-Porfv2i5SqA&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=eVfmh_t2I572ueYnIkJIgA&oh=00_AfpshXoOTU_FxzB5vSODDI10HnnDr_AitOmZub1q75r15Q&oe=69616E71",
+        "event": null,
+        "caption": "car-thage-store.store",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "💈ماكينة الحلاقة الأصلية vintage T9 ترجعلكم في  عرض خيالي 📢📢\n🔰 السعر : 19.900 ✅️ بعد 35 دينار ❌️\n🔰 التوصيل : 7 دينار 🚚\nللطلب أضغط على acheter"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "IMAGE",
+        "link_description": "Tendeuse Vintage T9 is an online store that sells a variety of products.",
+        "link_url": "https://car-thage-store.store/product/tendeuse-vintage-t9?quantity=1",
+        "images": [
+          {
+            "image_crops": [],
+            "original_image_url": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.35426-6/611264335_3119589271554463_2475917994490987973_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VsdQeS2mjtUQ7kNvwF76IZO&_nc_oc=AdkBZVgGTW1SqMkkqejBIRNnNmfZejBAd2R-EzOM2CK-7HI_B-eHDeTyktcbyJfil_c&_nc_zt=14&_nc_ht=scontent-lhr8-2.xx&_nc_gid=eVfmh_t2I572ueYnIkJIgA&oh=00_AfoRU4fO_61krE4jS7WU0YHVo_Koa2u51BbOW85rMTGNbw&oe=69614283",
+            "resized_image_url": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.35426-6/609013810_1598879447810260_8810339054637271903_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4KZRp6h_ci8Q7kNvwGM6-yg&_nc_oc=AdmVm2E7E38BWgaReBzW1d3dxdT_l7qFWjXfNlHHx2luesVEo4BICLrPeaKaLV7iCW4&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=eVfmh_t2I572ueYnIkJIgA&oh=00_AfrbGub-i-NtG6B_w4LddP6T05vI2Se-T9T7W3ViI7kHqg&oe=69615E29",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "page_categories": [
+          "Shopping"
+        ],
+        "page_like_count": 823,
+        "title": "🔥 Vintage T9 – الدقّة بسعر مفاجأة",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Carthage store ",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1767513600,
+      "contains_sensitive_content": false,
+      "total_active_time": 33612,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=car-thage-store.store&search_type=keyword_unordered",
+      "total": 1,
+      "ads_count": 1,
+      "start_date_formatted": "2026-01-04 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1225953652969302"
+    }
+  ]
+}

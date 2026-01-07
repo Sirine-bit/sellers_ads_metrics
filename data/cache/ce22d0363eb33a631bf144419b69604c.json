@@ -1,0 +1,310 @@
+{
+  "domain": "foryouu.tn",
+  "cached_at": "2026-01-05T10:20:30.096571",
+  "ads_count": 3,
+  "ads": [
+    {
+      "ad_archive_id": "873130381871209",
+      "collation_count": 2,
+      "collation_id": "846626468166910",
+      "page_id": "104578299019177",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "104578299019177",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/foryouu.tn/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Foryou.tn",
+        "page_profile_picture_url": "https://scontent-bog2-1.xx.fbcdn.net/v/t39.35426-6/605542814_869200605516970_6583096807160684952_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CzhBJPYLBU8Q7kNvwE3SuwE&_nc_oc=AdklG5Zfqsx1A-nlyXUZCYusotMnzdwsiX88uqkh7BpOS2mzrOTgyRh1sIpZBoV7mkKxub4a5Q6v7k7KR4uc973F&_nc_zt=14&_nc_ht=scontent-bog2-1.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_Afoi9Ofy_oNcuBjNTE7TKMTmz2EbvAGxtG3wI-ivM_YbCQ&oe=6961565A",
+        "event": null,
+        "caption": "foryouu.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "Sac 60cm “29DT“ + Sac 45cm Gratuit 🌟\nOffre spéciale Noël 🎄🎅"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "IMAGE",
+        "link_description": "Spécial fin d’année Sac gratuit is an online store that sells a variety of products.",
+        "link_url": "https://foryouu.tn/product/special-fin-d-annee-sac-gratuit",
+        "images": [
+          {
+            "image_crops": [],
+            "original_image_url": "https://scontent-bog2-1.xx.fbcdn.net/v/t39.35426-6/605727553_835689202603068_6420964868116575778_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xbVqQBUp6hQQ7kNvwHREJtO&_nc_oc=Adkr5-1ZWUsIvVxLliDIFnO6KyMBI4mB2CUi7sZfP2hT3ShmEGMioTy1l4hecMsQbGwuSiVAYGwDFHQQqr39LrED&_nc_zt=14&_nc_ht=scontent-bog2-1.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_AfprmB20-7vjuMc9MQ22fYrczXFdGqrOG1M-_9ixeEPHxg&oe=69616F93",
+            "resized_image_url": "https://scontent-bog2-1.xx.fbcdn.net/v/t39.35426-6/605793051_1360820072724655_7463915866701977402_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dm73ZpgnywQQ7kNvwGLiV6Y&_nc_oc=AdleSdcqCB5hJhNlXtnLI2NiMVmdvk-78hxcOCbMOPbaoSpyCoyeeT--JSZUzjlGdRo1HWDYJDmJuTVEpUOoo3ON&_nc_zt=14&_nc_ht=scontent-bog2-1.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_Afp74vD0LDbPQZxO8kAkFLBNOmtm1umiZumPAjPd5S2wMw&oe=69616476",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "page_categories": [
+          "Clothing (Brand)"
+        ],
+        "page_like_count": 37303,
+        "title": "Spécial fin d’année Sac gratuit",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Foryou.tn",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766822400,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=foryouu.tn&search_type=keyword_unordered",
+      "total": 3,
+      "ads_count": 3,
+      "start_date_formatted": "2025-12-27 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=873130381871209"
+    },
+    {
+      "ad_archive_id": "2102122607265979",
+      "collation_count": 1,
+      "collation_id": "26109100355353828",
+      "page_id": "104578299019177",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "104578299019177",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/foryouu.tn/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Foryou.tn",
+        "page_profile_picture_url": "https://scontent-bog2-1.xx.fbcdn.net/v/t39.35426-6/603805470_854155127250081_6299257556891291224_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FPLxYm06CHcQ7kNvwHaW6FR&_nc_oc=AdnAo0_rrmyQSAGKWQK_jFo8UgGSrFA11-vax2OZbmm92PDI7CzyjhweV29ppHKldAc9h-4StAnZocm2gw0qzuDx&_nc_zt=14&_nc_ht=scontent-bog2-1.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_AfoIfVaIORkRwwCa3HPAifCKpnM-Hq2tSJuJQIBl6AFCwQ&oe=69615F01",
+        "event": null,
+        "caption": "foryouu.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "تاخو كعبة الثانية بلاش 💥🎉🎊"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "IMAGE",
+        "link_description": "Spécial fin d’année Sacoche gratuit is an online store that sells a variety of products.",
+        "link_url": "https://foryouu.tn/product/special-fin-d-annee-pochette-gratuit",
+        "images": [
+          {
+            "image_crops": [],
+            "original_image_url": "https://scontent-bog2-1.xx.fbcdn.net/v/t39.35426-6/604951700_889851760242413_3448457570412002710_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GpBS1raPZyIQ7kNvwHXiiQO&_nc_oc=AdlI4JbTihQXJkK7fA4QROmeqGOShw7F8kdc9MND5aDVbTRJGMmDXSw9KyWUxtTsoZljTiktpO_t9__wmQq_mpXv&_nc_zt=14&_nc_ht=scontent-bog2-1.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_Afr2O4iup-tzsGSKDl9h2dQ9mOZy4RSq1DQLi1TbjWychA&oe=696149AD",
+            "resized_image_url": "https://scontent-bog2-1.xx.fbcdn.net/v/t39.35426-6/605084266_1579443190170096_5219735824895243732_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jFhGBeyEVbcQ7kNvwGChkq9&_nc_oc=Admk_Ly6Nw-HHifXTkKjRFTxaitieg9Phz0JJHPbDMe82v9qb2RNGNpJKmpWukZJKgPAJ2NNWFh26UgHfOwdmrkz&_nc_zt=14&_nc_ht=scontent-bog2-1.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_AfqEC3aBiRBGsAeQfzMcTtsPN_YO1xdwUFjVRKiXBIW7yQ&oe=696139FB",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "page_categories": [
+          "Clothing (Brand)"
+        ],
+        "page_like_count": 37303,
+        "title": "Spécial fin d’année Sacoche gratuit",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Foryou.tn",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766822400,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=foryouu.tn&search_type=keyword_unordered",
+      "total": 3,
+      "ads_count": 3,
+      "start_date_formatted": "2025-12-27 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=2102122607265979"
+    },
+    {
+      "ad_archive_id": "1869501813667018",
+      "collation_count": 1,
+      "collation_id": "1388575395571627",
+      "page_id": "104578299019177",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "104578299019177",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/foryouu.tn/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Foryou.tn",
+        "page_profile_picture_url": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.35426-6/606062132_1188300623427212_8027250443606043292_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E8RfuAfbkvUQ7kNvwEPyicj&_nc_oc=Adl2yJMtOP-uOIKCixgRzCVWuMABmQlOD5alGicB1ZEEbzi0xDq-Bi2lNbHmAPDw9c3eRx2dhCujck3BhdNvCmEZ&_nc_zt=14&_nc_ht=scontent-bog2-2.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_Afq2-2ifevCTzH4lbvyHEV5oliH-wi70C_e09l0BJVymtg&oe=69614016",
+        "event": null,
+        "caption": "foryouu.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "أقوى Pack fin d’année"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "IMAGE",
+        "link_description": "Offre Pack fin d’année deux Sac + sacoche is an online store that sells a variety of products.",
+        "link_url": "https://foryouu.tn/product/offre-pack-fin-d-annee-deux-sac-sacoche",
+        "images": [
+          {
+            "image_crops": [],
+            "original_image_url": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.35426-6/605201886_869618995860188_6432170160710665844_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7_ms7WREKFUQ7kNvwGIfUm6&_nc_oc=Adk2_WvbuD7PcDXPTRPzrAAFdmwih4tKyd0kyZ4iXNKOCjtGuUzEHA9TTEFDINiEsA8Jjsh8q8Pnqd07dRPg905n&_nc_zt=14&_nc_ht=scontent-bog2-2.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_Afoieo6IeJN9YxV7xgaKV5zjsRnB0sLA2fdNzxqRp9p9fw&oe=69615A81",
+            "resized_image_url": "https://scontent-bog2-1.xx.fbcdn.net/v/t39.35426-6/604757729_799362619783474_2737828169764880066_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UGaBuFkIyZkQ7kNvwH79Xuo&_nc_oc=AdmaqGPXd89CKwFt6Bk1hpe1n98BtGcCDIgqK1zoDVo3lxPwh7bPE9wh2nclR-mf6DHkrUWet1rx1PxG7ADPN2vZ&_nc_zt=14&_nc_ht=scontent-bog2-1.xx&_nc_gid=NIXZNf2hudTKsXpO7mf3uQ&oh=00_Afqljux4kmUKpMrb7oH5LXUWyFnXXqZU2eeDzguPvt9e7g&oe=696154EE",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "page_categories": [
+          "Clothing (Brand)"
+        ],
+        "page_like_count": 37303,
+        "title": "Offre Pack fin d’année deux Sac + sacoche",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Foryou.tn",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766822400,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=foryouu.tn&search_type=keyword_unordered",
+      "total": 3,
+      "ads_count": 3,
+      "start_date_formatted": "2025-12-27 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1869501813667018"
+    }
+  ]
+}

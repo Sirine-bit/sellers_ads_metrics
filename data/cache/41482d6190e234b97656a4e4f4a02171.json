@@ -1,0 +1,631 @@
+{
+  "domain": "soukshopp.com",
+  "cached_at": "2026-01-05T02:29:43.314199",
+  "ads_count": 6,
+  "ads": [
+    {
+      "ad_archive_id": "2001594253723213",
+      "collation_count": 1,
+      "collation_id": "1399550821894246",
+      "page_id": "342134508991461",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "342134508991461",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61562278542511/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+        "page_profile_picture_url": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.35426-6/601834800_867457859516440_1399788165251905294_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G-JLi2dkQTMQ7kNvwHtBAeY&_nc_oc=Adn5llAvLaNsWdgi1Deds6am7Qz3ePzctGXeLapNKUYjiNjULbBmC6KYB_EgArDzZds&_nc_zt=14&_nc_ht=scontent.fscl9-2.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfqXbhKxvye8Z9zRvWX1_9T8M_-nxG55-dFuIHXAXhUNIg&oe=6960F925",
+        "event": null,
+        "caption": "soukshopp.com",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "مسحة التحمير 🌾\nتحمير، تنعيم، ونزع الأعشاب بجهد أقل وبسرعة أكبر. \nمصنوعة من فولاذ متين ونصل حاد يخليك تخدم أرضك براحة ونتيجة مضمونة. الثمن : 38 دت +7 دت"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "أداة زراعية عملية مصنوعة من فولاذ قوي وحاد، مصمّمة لحرث التربة، إزالة الأعشاب الضارة، وتنظيف الأرض بكل سهولة. شكلها المقوّس يسمح بالتحكّم الجيد وقوّة أكبر أثناء الاستعمال، وتناسب الاستعمال اليومي في الحقول والحدائق.\nالمميزات:\n✔️ فولاذ متين مقاوم للصدأ\n✔️ نصل حاد لحرث سريع وفعّال\n✔️ خفيفة وسهلة التركيب مع عصا\n✔️ مثالية للفلاحة، البستنة، وتنظيف الأعشاب\nأداة أساسية لكل فلاح أو هاوي زراعة 🌾الاستفسار او طلب عبر الهاتف:📞51099333",
+        "link_url": "https://soukshopp.com/product/lmaazq-lfwldhy?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjgfmjfv2v7cr0rh2",
+        "images": [],
+        "page_categories": [
+          "Electronics",
+          "Games/toys",
+          "Animals & Pets"
+        ],
+        "page_like_count": 1823,
+        "title": "أرضك تستاهل أداة باهية🌾",
+        "videos": [
+          {
+            "video_hd_url": "https://video.fscl9-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPoQeNd37HkE32iUSqGqyvjClgFD_NWk3atxqIECu9lpnmky6dQAayCVGW7vpTJ4U36DOrBefWLdE6lBEcbJh_7xk6lqK6PQGyGuiveu5zJ8Q.mp4?_nc_cat=108&_nc_oc=AdmEpXlhsSPyMCTNDirfJPQl4IVgk-YPU9muAUblHkeHkSGL8f2cGeDCEfkfsaak_00&_nc_sid=5e9851&_nc_ht=video.fscl9-2.fna.fbcdn.net&_nc_ohc=z5HQ-SRhZDQQ7kNvwGtLiUQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MTU1NzM0OTYzNDM4NTIsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ3YXRjaF90aW1lX3MiOjExMDQzNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e3a1eafa35047304&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MzRFODUwMjQxOTAxQjlFRTY1MUNERjVDQjlGRDk4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ3NEE1MzU2RTVDNTI0NDFBQ0FGRDlFQzFGQzFFOThFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYtIu-_pmxBRUCKAJDMywXQD9MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfprPcYq2vvEAvyUcLpE6PgWIJn5XqOSHocAYWxGszGzfw&oe=696100D8",
+            "video_preview_image_url": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.35426-6/600379313_867625525782494_8982407496908923343_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DLylTT8vi2IQ7kNvwHVq-uD&_nc_oc=AdmAO7h79e1H50CBbvDxp0yNhX9-nfB4tDWWeMj-6M5dMgCKwJOk3oVrkVfSOrl1XOM&_nc_zt=14&_nc_ht=scontent.fscl9-1.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfoN2PLUITNlk04dlWfw5Gez6-9ufR3wl8Z8Wd5IXm6X2w&oe=696102BE",
+            "video_sd_url": "https://video.fscl9-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQOWRMHfkqudqExp5kiIXf9iSCXWAyJi5zqOcJdlEUdFPj2aDmLtwzPQ2ixHeslbfb1AUYN3IBI0KD6ZXheOkRN0QpiJTYDGlD2X3BPLcA.mp4?_nc_cat=101&_nc_oc=AdnlZcX625yCZR4AoG0emh1zENUVgLjHsZOsSQedCFqs_Lh9Xhd2UYTM2Zr8bUX0pzQ&_nc_sid=8bf8fe&_nc_ht=video.fscl9-1.fna.fbcdn.net&_nc_ohc=arwj8WRsvvoQ7kNvwGVn75D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUxNTU3MzQ5NjM0Mzg1MiwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzEsIndhdGNoX3RpbWVfcyI6MTEwNDM3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfqmkXjZM8QlBvGXCzXL7XBHutLeE_QRxWuZ0yujL1RUpA&oe=6960FB29",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767513600,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766304000,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=soukshopp.com&search_type=keyword_unordered",
+      "total": 6,
+      "ads_count": 6,
+      "start_date_formatted": "2025-12-21 08:00:00",
+      "end_date_formatted": "2026-01-04 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=2001594253723213"
+    },
+    {
+      "ad_archive_id": "734084959248181",
+      "collation_count": 1,
+      "collation_id": "881074394269019",
+      "page_id": "342134508991461",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "342134508991461",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61562278542511/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+        "page_profile_picture_url": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.35426-6/601836935_1297234435498265_5228793663561209745_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DryqNopL-ckQ7kNvwH2cvXL&_nc_oc=AdkJCuvYFg-Df_yQ0APAcDg8jwxFgITx0om_X4ejpt7ro97jILjbcMDdG6AR-tVMi-s&_nc_zt=14&_nc_ht=scontent.fscl9-2.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfqZHht1nzpBvNW4YnFbeif8Xf1rXz-6rxm_3qoUk-S3OA&oe=6960FE52",
+        "event": null,
+        "caption": "soukshopp.com",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "مسحة التحمير 🌾\nتحمير، تنعيم، ونزع الأعشاب بجهد أقل وبسرعة أكبر.\nمصنوعة من فولاذ متين ونصل حاد يخليك تخدم أرضك براحة ونتيجة مضمونة. الثمن : 38 دت +7 دت \nأداة أساسية لكل فلاح وبستاني 👨‍🌾"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "أداة زراعية عملية مصنوعة من فولاذ قوي وحاد، مصمّمة لحرث التربة، إزالة الأعشاب الضارة، وتنظيف الأرض بكل سهولة. شكلها المقوّس يسمح بالتحكّم الجيد وقوّة أكبر أثناء الاستعمال، وتناسب الاستعمال اليومي في الحقول والحدائق.\nالمميزات:\n✔️ فولاذ متين مقاوم للصدأ\n✔️ نصل حاد لحرث سريع وفعّال\n✔️ خفيفة وسهلة التركيب مع عصا\n✔️ مثالية للفلاحة، البستنة، وتنظيف الأعشاب\nأداة أساسية لكل فلاح أو هاوي زراعة 🌾الاستفسار او طلب عبر الهاتف:📞51099333",
+        "link_url": "https://soukshopp.com/product/lmaazq-lfwldhy?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjgdealv123mxyl2n",
+        "images": [],
+        "page_categories": [
+          "Electronics",
+          "Games/toys",
+          "Animals & Pets"
+        ],
+        "page_like_count": 1823,
+        "title": "مسحة التحمير… أداة كل فلاح👍",
+        "videos": [
+          {
+            "video_hd_url": "https://video.fscl9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPAEKsr3KkUj-9IFGTdByvSfs4VSGSG4WLFCUrIcsGXijdYxNpUF6ooyT_5yctALxkclnKnE3Y7sF8N-gO7nlMY8JWEpyi01Iw9lQYzk85s-w.mp4?_nc_cat=101&_nc_oc=Admy5xNOdxougjMtAGtW6ztCp08LCvlc_0HIR6JsQO-up03NdH7lcd0EDwWxPh71_OQ&_nc_sid=5e9851&_nc_ht=video.fscl9-1.fna.fbcdn.net&_nc_ohc=Qxdd7P-aVhAQ7kNvwHwdQ9l&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNjUyODgyNDEzMDk1MDEsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIyLCJ3YXRjaF90aW1lX3MiOjE3Mzg2NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=773bd3df9e51392a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RDRCMDZBREQ1MjM5NkNGOTk2MzYyOTJGQ0U2OEY5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg2NEZCQzUyNzJEM0FGMzA4NzIwM0JENTY2NTNEOThDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6nJ2Knu7sBBUCKAJDMywXQDZVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfoU-3hGhfUC6e19WmpKxqwOQRzrzLy3FklX-143aWJMaA&oe=6960D0E7",
+            "video_preview_image_url": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.35426-6/603796638_1210374204521665_4521137935913069258_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0S-yQCt9IlIQ7kNvwECFyev&_nc_oc=Adk6pHzRDP3-ariFxJ0VMO2pGTjuUarjMCSKzYv6V9jgAzRZn1R3B2XM-_-ZmJv6AK0&_nc_zt=14&_nc_ht=scontent.fscl9-1.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfpWFDvXoYUa-atbLKyulLRgG650niGNy951ThxJLYOlNA&oe=6960DE7A",
+            "video_sd_url": "https://video.fscl9-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQPeqlNwZk1vV0bNuEipjA2zTH5fJ15Ir3QESS1lrmwoHwu7VrXZOH4QDUd0lcICRZZaQax2wXCL_QnJoYNpOoNMqo5bhvHR3S2yxpoqdQ.mp4?_nc_cat=103&_nc_oc=AdnY1xcInP4yGy5aj-hEQRAP0d3_zrF14XVwhErECwUR-nIFb0bl5TAAZAE2WiKn_TE&_nc_sid=8bf8fe&_nc_ht=video.fscl9-1.fna.fbcdn.net&_nc_ohc=yR4jkEI48scQ7kNvwEk--YU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM2NTI4ODI0MTMwOTUwMSwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjIsIndhdGNoX3RpbWVfcyI6MTczODY0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfqrBAH7G9VGBWV2NgE_YHNVXgHC4VMP320ZWWdyTe1i0w&oe=6960D6B3",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1766736000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766304000,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=soukshopp.com&search_type=keyword_unordered",
+      "total": 6,
+      "ads_count": 6,
+      "start_date_formatted": "2025-12-21 08:00:00",
+      "end_date_formatted": "2025-12-26 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=734084959248181"
+    },
+    {
+      "ad_archive_id": "1189035752751814",
+      "collation_count": 1,
+      "collation_id": "745951097935238",
+      "page_id": "342134508991461",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "342134508991461",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61562278542511/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+        "page_profile_picture_url": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.35426-6/600323903_1880019506207676_7760230812722186251_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bBWZs_3FXCEQ7kNvwF5lwmq&_nc_oc=AdlqchfierEtL0Q2zQ0wyvUtTx4rx4Y8RBPRJaEQ6igPt_wGUcED7uyuws-OG4gys0M&_nc_zt=14&_nc_ht=scontent.fscl9-1.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_Afp6gpHDjcY3rcBhCD3hf0Ycfto0e4mVxIF2DOBpJZkZeg&oe=6960D702",
+        "event": null,
+        "caption": "soukshopp.com",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "\"خلي خدمة الأرض أسهل وأسرع! 💪 مع المحراث اليدوي، شقّ التربة بلا تعب وركّز على الزرع فقط.\n💰 السعر: 38دت + 7 دت📞 للطلب: 51.099.333\""
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "🔥 الحل المثالي للفلاحة والجنينة! 🔥\n\nإذا عندك جنينة، أرض صغيرة، ولا تخدم في الفلاحة… الأداة هاذي لازمك!\nأداةالمحراث اليدوي مصنوعة من فولاذ قويّ، تخترق التربة بسهولة وتعمل لك مسالك نظيفة للريّ، الزراعة، وتنظيم الصفوف.\nخفيفة، عملية، وتسهّل عليك الخدمة مهما كانت الأرض قاسية.\n✨ المميزات:\nتشقّ التربة بسرعة وبمجهود قليل\nمثالية لعمل قنوات الريّ والصفوف\nمتينة، مقاومة للصدأ\nمقبض مريح للاستعمال الطويل\nتخلي خدمتك مرتّبة وقدّام عينك\n💰 السعر: 42 دت + 7 دت بدون عصا   💰 السعر: 48 دت + 7 دت بالعصا",
+        "link_url": "https://soukshopp.com/product/lmhrth-lmthlth?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mj1j7s4411okbijm5",
+        "images": [],
+        "page_categories": [
+          "Electronics",
+          "Games/toys",
+          "Animals & Pets"
+        ],
+        "page_like_count": 1823,
+        "title": "🔥 الأكثر مبيعاً في تونس 🔥",
+        "videos": [
+          {
+            "video_hd_url": "https://video.fscl9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMamLoPPg0wnJtXf_oozuniYjTDelbJRvOgXmSNevDdl1tKr8XXa9bZ9yUi8NG6bLkkior69ftqKnx-V78KrepQQb3G04aaJOXuDYpDy9XBQQ.mp4?_nc_cat=102&_nc_oc=AdnDT_mlZqASjbgprS5hhKkvVjlDZii5FG7Os_mGHrde48bd_91jfAtdKrQlLWjE11E&_nc_sid=5e9851&_nc_ht=video.fscl9-1.fna.fbcdn.net&_nc_ohc=8uShCDX-yrMQ7kNvwFueMV9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NTkyOTc2NDUyNTM0OTAsImFzc2V0X2FnZV9kYXlzIjoyNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2LCJ3YXRjaF90aW1lX3MiOjgyMDA0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f044238404bf3932&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjRGRTQ2NUI4MzlGQjU4NzFCQjZFMTc1QkM1N0U5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NFNDgyODk5NDA0RTA3MjQ1MjhCQTE0QTRGQTYyODlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkzfTjiIvFBRUCKAJDMywXQEIAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfoRKantvs9dAqkAmQkTkKm7KIuanoLLOXQbqKsoGSfQmg&oe=6960CD0E",
+            "video_preview_image_url": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.35426-6/602390269_4072142089763024_3961022895779292561_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vEGa9N4MZhEQ7kNvwE4UjLI&_nc_oc=Adkm5Y3h6LJ0gjMFknfAh8Y7pR2YnlQ0uIAKtoVeymZfLkBUb_LZSOsZF_SDgsgNME8&_nc_zt=14&_nc_ht=scontent.fscl9-2.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfodE3ICuPIrLkILHW-3ZEhij0Q6Nu0kWe7IX8AmCTEefA&oe=6960F89D",
+            "video_sd_url": "https://video.fscl9-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQNk5eQbVQ2MgZ1sXLbdYkxe-5lytI2hDzHYcISUogvuAAxjdWkrolbBLTA_stfJzjV-8dscZ5C-zRM-jKp8Txg8XyLXPzKvhEt9M9Aw2g.mp4?_nc_cat=103&_nc_oc=Adn70FV_BtIlGaVAM8qOfunGAXUDwZjw49Z-D_jViQ1GSF7zljDqsOV96PkjzYsAu-g&_nc_sid=8bf8fe&_nc_ht=video.fscl9-1.fna.fbcdn.net&_nc_ohc=3Fg7aP41rFkQ7kNvwFvlt4c&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU1OTI5NzY0NTI1MzQ5MCwiYXNzZXRfYWdlX2RheXMiOjI0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzYsIndhdGNoX3RpbWVfcyI6ODIwMDQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfrdeEye1IBRIXTiq3BphI3lb6USqloMHs33CRZfCVqJQg&oe=6960D7F3",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767513600,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766217600,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=soukshopp.com&search_type=keyword_unordered",
+      "total": 6,
+      "ads_count": 6,
+      "start_date_formatted": "2025-12-20 08:00:00",
+      "end_date_formatted": "2026-01-04 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1189035752751814"
+    },
+    {
+      "ad_archive_id": "723682653698958",
+      "collation_count": 1,
+      "collation_id": "1516021329690450",
+      "page_id": "342134508991461",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "342134508991461",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61562278542511/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+        "page_profile_picture_url": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.35426-6/602414655_1143276834545997_109797799385703028_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=thaD2BhXOvIQ7kNvwFVCY_8&_nc_oc=AdmAY-uORBvg-LAOyM4NIRmNrH1XVNxwWHF4Em1A3wQdqQNCyQGXxhxfNduJ51at5zc&_nc_zt=14&_nc_ht=scontent.fscl9-1.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfoL99pTfbhf4LfoRWUO1oRIVjSojAgkrdmYgDBkssDDHg&oe=6960F4E2",
+        "event": null,
+        "caption": "soukshopp.com",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "تحب تخدم الأرض بلا تعب؟ \nالأداة المحراث اليدويتشقّ التربة في ثانية! قوية، سريعة، وتسهّل عليك الخدمة في الجنينة وهنشير.💰 السعر: 38دت + 7 دت   للطلب: 51.099.333"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "🔥 الحل المثالي للفلاحة والجنينة! 🔥\n\nإذا عندك جنينة، أرض صغيرة، ولا تخدم في الفلاحة… الأداة هاذي لازمك!\nأداةالمحراث اليدوي مصنوعة من فولاذ قويّ، تخترق التربة بسهولة وتعمل لك مسالك نظيفة للريّ، الزراعة، وتنظيم الصفوف.\nخفيفة، عملية، وتسهّل عليك الخدمة مهما كانت الأرض قاسية.\n✨ المميزات:\nتشقّ التربة بسرعة وبمجهود قليل\nمثالية لعمل قنوات الريّ والصفوف\nمتينة، مقاومة للصدأ\nمقبض مريح للاستعمال الطويل\nتخلي خدمتك مرتّبة وقدّام عينك\n💰 السعر: 42 دت + 7 دت بدون عصا   💰 السعر: 48 دت + 7 دت بالعصا",
+        "link_url": "https://soukshopp.com/product/lmhrth-lmthlth?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mj1j7s4411okbijm5",
+        "images": [],
+        "page_categories": [
+          "Electronics",
+          "Games/toys",
+          "Animals & Pets"
+        ],
+        "page_like_count": 1823,
+        "title": "💥 فرصة ما تتعاودش!",
+        "videos": [
+          {
+            "video_hd_url": "https://video.fscl9-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMMbdoF3tIDsB6UBRBmH8u8-HdGYB9KuaWaOHnx5oGj_r7aP4lNaOgjmryqQIUk-miYRT8tnTWCVDvpd4n71Qn0QF9JVHVIbvoAGZJ4vZxH2A.mp4?_nc_cat=104&_nc_oc=Adl3OYqCEzG2MZJzI4NkWxvy3PZksc9uYqZ08wvSISTYwQ5PlcGMGENh_E8YofuRTVM&_nc_sid=5e9851&_nc_ht=video.fscl9-2.fna.fbcdn.net&_nc_ohc=2y8JUGFZbXwQ7kNvwGaRylw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTA2ODMxMjA1ODQwNDgsImFzc2V0X2FnZV9kYXlzIjoyNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2LCJ3YXRjaF90aW1lX3MiOjEzMzgxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6de3f4447d2c26dc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQzRCRERDQzlCRjVGODlERDFEN0NBMTBCQzBCOENCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFCNENENDlEQkRGNDUzRjVGM0E1RUY1MTE0RDcwMDlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgldikyMCBBRUCKAJDMywXQEJZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfpZ-rgtZ7l5HWd2MzD4to4S30hAlgLloMd_vzlPLryOcw&oe=69610144",
+            "video_preview_image_url": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.35426-6/604323617_25357565570520944_1676486913753527893_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=spyqlTCDimEQ7kNvwHO5l2n&_nc_oc=Adkhjx3HCgFActPZszLlpEZWK0vK-3C5FivfsRKDn58nFlfyfF7wlulGBQFlvgJuAGM&_nc_zt=14&_nc_ht=scontent.fscl9-1.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfozIzFN9inah-zFwgEJRZfhYwpLnlCiYoHUAdKJRCj2-g&oe=6960CE0D",
+            "video_sd_url": "https://video.fscl9-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMElp2L_GJ1S3iMskCqy8uvC2Ze_NvveGZr98xLJcAXk0ltY0D3YdZDtSSATBPwC3rpfxUXVTCbnM-hKtedSwPemdyQMBqBS80_TGratA.mp4?_nc_cat=103&_nc_oc=AdlboZhACblKKTV6VR-Cy-g8iXWCOG4cf803SYuwmzc_R14UPazVhlZ6_aZXs5zGzQU&_nc_sid=8bf8fe&_nc_ht=video.fscl9-1.fna.fbcdn.net&_nc_ohc=5GDfmbGaipUQ7kNvwGVtphL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQxMDY4MzEyMDU4NDA0OCwiYXNzZXRfYWdlX2RheXMiOjI0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzYsIndhdGNoX3RpbWVfcyI6MTMzODEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_Afq5Qlybu5COB22CMSfYW1g75sgAxBcQD1tq96o50SWLiQ&oe=6960DF6F",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767513600,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766217600,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=soukshopp.com&search_type=keyword_unordered",
+      "total": 6,
+      "ads_count": 6,
+      "start_date_formatted": "2025-12-20 08:00:00",
+      "end_date_formatted": "2026-01-04 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=723682653698958"
+    },
+    {
+      "ad_archive_id": "872931271882160",
+      "collation_count": 1,
+      "collation_id": "1639203097064189",
+      "page_id": "342134508991461",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "342134508991461",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61562278542511/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+        "page_profile_picture_url": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.35426-6/602463096_1189186469395610_2673654716382673337_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LCiFkTg8-NsQ7kNvwHPQoCW&_nc_oc=AdnJ9RB7yhel4miOt_FXDCZfneVBPxowcijvTmYQWwf90PvXTKKnMRfDvcG6tUPrfgc&_nc_zt=14&_nc_ht=scontent.fscl9-1.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfpJqi_E6txYK50hylgUCFWB0DfF_it2pqvJlNcFhnqxZg&oe=6960E7D3",
+        "event": null,
+        "caption": "soukshopp.com",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "هاوي تربتك في ثواني! 🌱 المحراث اليدوي قوي وسهل الاستعمال، ويوفرلك وقتك ومجهودك \n💰 السعر: 38دت + 7 دت 📞 للطلب: 51.099.333\""
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "🔥 الحل المثالي للفلاحة والجنينة! 🔥\n\nإذا عندك جنينة، أرض صغيرة، ولا تخدم في الفلاحة… الأداة هاذي لازمك!\nأداةالمحراث اليدوي مصنوعة من فولاذ قويّ، تخترق التربة بسهولة وتعمل لك مسالك نظيفة للريّ، الزراعة، وتنظيم الصفوف.\nخفيفة، عملية، وتسهّل عليك الخدمة مهما كانت الأرض قاسية.\n✨ المميزات:\nتشقّ التربة بسرعة وبمجهود قليل\nمثالية لعمل قنوات الريّ والصفوف\nمتينة، مقاومة للصدأ\nمقبض مريح للاستعمال الطويل\nتخلي خدمتك مرتّبة وقدّام عينك\n💰 السعر: 42 دت + 7 دت بدون عصا   💰 السعر: 48 دت + 7 دت بالعصا",
+        "link_url": "https://soukshopp.com/product/lmhrth-lmthlth?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mj1j7s4411okbijm5",
+        "images": [],
+        "page_categories": [
+          "Electronics",
+          "Games/toys",
+          "Animals & Pets"
+        ],
+        "page_like_count": 1823,
+        "title": "🔥 السعر مغري والجودة مضمونة!",
+        "videos": [
+          {
+            "video_hd_url": "https://video.fscl9-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNL7v_zWsCU8JU-_MflKCfksMPeDDFBbgoi_pDrRhIpAdJ2sZoH5SCUBKzRYxi5Vp3uryOs00qEVXY97NjoP3HjV16C52ClReydoHj-sgYaCw.mp4?_nc_cat=106&_nc_oc=AdkrXGO5hAXZiP28mZQIpRmS-DnAC4aIrgrDd0N2JdvYQ6Dgc_C2UW4QDDnWyS5wK3w&_nc_sid=5e9851&_nc_ht=video.fscl9-2.fna.fbcdn.net&_nc_ohc=zEDpJ2P8S4EQ7kNvwHGAM6s&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcxOTQ1Mzg5NDU0NjIzMiwiYXNzZXRfYWdlX2RheXMiOjI0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzYsIndhdGNoX3RpbWVfcyI6MTc2NDMyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d8ee1300dd3cb7bd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQzQ5ODUyMTVERTBEMEI1OTdEQzQwQTJGQjc2RjdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RENDk0OTc2OTIyRjREMEM3MkFBODE3NDcxQTgyNjg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwzIid3ZXHAhUCKAJDMywXQEJ7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfoIV1lLDLGjEv44zLAd0JrdKHuTCV9YhX5znBKER83I7Q&oe=6960E756",
+            "video_preview_image_url": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.35426-6/599939666_703256222618360_4896958431151380360_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dMjfwB00M64Q7kNvwHdUPh4&_nc_oc=Adl9Kzpqz_gkG1_qs5bK0rGVUg9Nvtm-4m6obDFDw3RUgs3L5TNJte3TuL7_ySAUqzU&_nc_zt=14&_nc_ht=scontent.fscl9-2.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfpH0U9mEOEY2-Ez-2dn_H-fU1JlTeX6-yXtfyry90Mj2w&oe=6960DDD2",
+            "video_sd_url": "https://video.fscl9-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQP-s8vy142x9ASsy81Y3Srtt4Alj6L2SLhq2lkAXgFI-mlv9BdDLpemmd6vEPYUjhCRRvfeL6IsSev2jHYCXs4MddLOeNXTJ04ld5P12A.mp4?_nc_cat=108&_nc_oc=AdmoTIipJGTQZbh1cOe3ZVl9K_SSATr4F-TaTzw-INUH3iS7NGzb0xuQbsFauczytZk&_nc_sid=8bf8fe&_nc_ht=video.fscl9-2.fna.fbcdn.net&_nc_ohc=DQFPCZAWtycQ7kNvwE85XKJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NzE5NDUzODk0NTQ2MjMyLCJhc3NldF9hZ2VfZGF5cyI6MjQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNiwid2F0Y2hfdGltZV9zIjoxNzY0MzI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfrcJDoiRUfmyu_VyAzzO8cUcN_Dx4XgafvOPCSlxdbvMw&oe=6960FFAE",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767513600,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766217600,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=soukshopp.com&search_type=keyword_unordered",
+      "total": 6,
+      "ads_count": 6,
+      "start_date_formatted": "2025-12-20 08:00:00",
+      "end_date_formatted": "2026-01-04 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=872931271882160"
+    },
+    {
+      "ad_archive_id": "2013487662766690",
+      "collation_count": 1,
+      "collation_id": "1207056027998608",
+      "page_id": "342134508991461",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "342134508991461",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61562278542511/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+        "page_profile_picture_url": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.35426-6/603870154_2122058281863947_1209056814899205586_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hD1OwMCtkjUQ7kNvwGsWkez&_nc_oc=Adlv4IIUESBRSLe5JXF8p2yybaD2k0G_aobdXdTiIq2-3EUP3-R1279UC6HK8BGQ2dc&_nc_zt=14&_nc_ht=scontent.fscl9-1.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AforyDCKZz2ijhwF099rZALD7fZ8LjkCH_YhGB8OA-b-ZA&oe=6960DC43",
+        "event": null,
+        "caption": "soukshopp.com",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "\"خلي خدمة الأرض أسهل وأسرع! 💪 مع المحراث اليدوي، شقّ التربة بلا تعب وركّز على الزرع فقط.\nالسعر: 38دت + 7 دت    📞 للطلب: 51.099.333\""
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "🔥 الحل المثالي للفلاحة والجنينة! 🔥\n\nإذا عندك جنينة، أرض صغيرة، ولا تخدم في الفلاحة… الأداة هاذي لازمك!\nأداةالمحراث اليدوي مصنوعة من فولاذ قويّ، تخترق التربة بسهولة وتعمل لك مسالك نظيفة للريّ، الزراعة، وتنظيم الصفوف.\nخفيفة، عملية، وتسهّل عليك الخدمة مهما كانت الأرض قاسية.\n✨ المميزات:\nتشقّ التربة بسرعة وبمجهود قليل\nمثالية لعمل قنوات الريّ والصفوف\nمتينة، مقاومة للصدأ\nمقبض مريح للاستعمال الطويل\nتخلي خدمتك مرتّبة وقدّام عينك\n💰 السعر: 42 دت + 7 دت بدون عصا   💰 السعر: 48 دت + 7 دت بالعصا",
+        "link_url": "https://soukshopp.com/product/lmhrth-lmthlth?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mj1x5w9x2w3llgrvr",
+        "images": [],
+        "page_categories": [
+          "Electronics",
+          "Games/toys",
+          "Animals & Pets"
+        ],
+        "page_like_count": 1823,
+        "title": "🔥 اشتري اليوم وفر وقتك وجهدك!\"",
+        "videos": [
+          {
+            "video_hd_url": "https://video.fscl9-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPOsYEZEvQnt8QkzSjILPqH2bAkuGZE2U4if5QOr2v3we8ve28Mfu16ALdIaLPBcVU8YI8NwsaBMzC0m-YnLfUzjNy7JXsWSMusflO_LpZLyg.mp4?_nc_cat=106&_nc_oc=Adnj2JFehIrWx1GskmzkznliFySNI0niuTgBm9-0GCTkqX_s3scKd_il2928UGndfms&_nc_sid=5e9851&_nc_ht=video.fscl9-2.fna.fbcdn.net&_nc_ohc=-ECriWK7E2EQ7kNvwHlG_Co&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NTE0NjQ5ODE0ODE4MTIzLCJhc3NldF9hZ2VfZGF5cyI6MjQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOSwid2F0Y2hfdGltZV9zIjo3OTg1NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59f290c9c654adbd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNjRFNTQ1MzlGODUxQ0JCMjY2NkYzRjM0NTU0OTU4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkwNDU4RTM2MzdCQjA4REE3OUIyMTcwREU3RTc2RDhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaW9b7sitzSWhUCKAJDMywXQD33S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfqdMRfd64SVALvT7TqfwvFqODq4i_nNpik-UVJ6STD-oQ&oe=6960EECA",
+            "video_preview_image_url": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.35426-6/600514019_850892591262550_6345100437334154539_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kEL87V_h5VoQ7kNvwHLsh3T&_nc_oc=Adlid7eaiMVAURzlFCSq_DpLdeSusT3rRuJV19ihifkxA68CmyEkFuGRHtQPou1uyK0&_nc_zt=14&_nc_ht=scontent.fscl9-1.fna&_nc_gid=8F5RudIcCyVZOHmwWilZZA&oh=00_AfoFwdqldVEGpWoDp_YzZNaWBD5SunCezeY9diESXdXJEQ&oe=6960D448",
+            "video_sd_url": "https://video.fscl9-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQMqZAC9lPZxJoQbijVFuFQG4pgJ8cdCVqxF9KeZfxwCI2OImx2ni1JZ9mYdLQ0O3kYihnZJeDZrn8l5bPxcuajMJxuDdEt_F5x0zfJq_g.mp4?_nc_cat=104&_nc_oc=AdnE9mdf2Tylu0ixGL-Z9T1-J8RSUUVCFaV67qXR0W9oXvosXYvPxE2nV0GXkEtkWuE&_nc_sid=8bf8fe&_nc_ht=video.fscl9-2.fna.fbcdn.net&_nc_ohc=J1TlJ180XAQQ7kNvwE1r6Ps&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjU1MTQ2NDk4MTQ4MTgxMjMsImFzc2V0X2FnZV9kYXlzIjoyNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI5LCJ3YXRjaF90aW1lX3MiOjc5ODU1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=8F5RudIcCyVZOHmwWilZZA&_nc_zt=28&oh=00_AfoZsP_LIMiVzDQDyhukgq4qNX7gwhJlQta6SsrZl_e7hg&oe=6960EC3E",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Souk Shop \"Gros et Détail\" بيع بالجملة والتجزئة",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767513600,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766217600,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=soukshopp.com&search_type=keyword_unordered",
+      "total": 6,
+      "ads_count": 6,
+      "start_date_formatted": "2025-12-20 08:00:00",
+      "end_date_formatted": "2026-01-04 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=2013487662766690"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "domain": "shop-2.converty.shop",
+  "cached_at": "2026-01-02T22:32:01.500821",
+  "ads_count": 1,
+  "ads": [
+    {
+      "ad_archive_id": "1210839351223041",
+      "ad_id": null,
+      "archive_types": [],
+      "categories": [
+        "UNKNOWN"
+      ],
+      "collation_count": 1,
+      "collation_id": "1225627466154553",
+      "contains_digital_created_media": false,
+      "contains_sensitive_content": false,
+      "currency": "",
+      "end_date": 1767340800,
+      "entity_type": "PERSON_PROFILE",
+      "fev_info": null,
+      "finserv_ad_data": null,
+      "gated_type": "ELIGIBLE",
+      "has_user_reported": false,
+      "hidden_safety_data": false,
+      "hide_data_status": "NONE",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "is_aaa_eligible": false,
+      "is_active": true,
+      "is_profile_page": false,
+      "menu_items": [],
+      "page_id": "455697857621378",
+      "page_is_deleted": false,
+      "page_name": "AutoShop",
+      "political_countries": [],
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "reach_estimate": null,
+      "report_count": null,
+      "snapshot": {
+        "body": {
+          "text": "🔥Nouvelle arrivage bache voiture imperméable 🔥🔥seulement à 99dt 🔥N°📞 23 237 591 🇹🇳✅Bache imperméable  avec une meilleur qualité🔥🔥 ✅couton a l’intérieur le prix différent selon la taille de votre voiturePrix :99dt La livraison gratuite 🚚 https://bit.ly/41hdgWz"
+        },
+        "branded_content": null,
+        "brazil_tax_id": null,
+        "byline": null,
+        "caption": "autoshop-2.converty.shop",
+        "cards": [],
+        "cta_text": "Shop now",
+        "cta_type": "SHOP_NOW",
+        "country_iso_code": null,
+        "current_page_name": "AutoShop",
+        "disclaimer_label": null,
+        "display_format": "VIDEO",
+        "event": null,
+        "images": [],
+        "is_reshared": false,
+        "link_description": null,
+        "link_url": "https://autoshop-2.converty.shop/product/product-4",
+        "page_categories": [
+          "Auto Service"
+        ],
+        "page_entity_type": "PERSON_PROFILE",
+        "page_id": "455697857621378",
+        "page_is_deleted": false,
+        "page_is_profile_page": false,
+        "page_like_count": 1647,
+        "page_name": "AutoShop",
+        "page_profile_picture_url": "https://scontent.fbog3-1.fna.fbcdn.net/v/t39.35426-6/602380623_1275437111086193_7841453140263413389_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4FonioFR-QAQ7kNvwHZQkS0&_nc_oc=AdlDNlUtloAbZQUw32qqxorvyh6TiW7EdN5-MSk0ae6L6AQJmGWUt4i_71GJlr3rj8s&_nc_zt=14&_nc_ht=scontent.fbog3-1.fna&_nc_gid=VEZtpM1TLsCiUGUO6Abwdw&oh=00_Afpu-DSlInRT8IZ8NkD6IiVEa-YiaquZzwjSV5itCi4hyQ&oe=695E0D4D",
+        "page_profile_uri": "https://www.facebook.com/61566338192780/",
+        "root_reshared_post": null,
+        "title": "Couverture Voiture Luxe",
+        "videos": [
+          {
+            "video_hd_url": "https://video.fbog3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPaGalBjlb1iWNbHLoyKAkTDusSv1KL92ohfQ0NgRvNMV-aqxK0qaOcJuAzILEusUOsnvKKwWLNbje-6gYiF6GaKRmyCXY-wDCQXGGZr2UfpA.mp4?_nc_cat=108&_nc_oc=AdmAB4bhbGilvZxReI4jGZz26NwpYgWnCqqN3EgIRgBRGaCSrV06HdFO5tBlgLGzCAQ&_nc_sid=5e9851&_nc_ht=video.fbog3-1.fna.fbcdn.net&_nc_ohc=KJBMGOCaGxEQ7kNvwEDJ6MC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NjA0NTIzOTEzMDQ1MTQsImFzc2V0X2FnZV9kYXlzIjoxMzEsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bf1998b8c16918f6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQjQyRjVEMTAzREM2NTI2N0EwMDFDMkQ1NTY0QTI4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JBNDQ2MjYzNEY0QkMyNDFENkQ0NjQ4OTI3NzUxRkIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE9ZmvhovzBRUCKAJDMywXQDGqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=VEZtpM1TLsCiUGUO6Abwdw&_nc_zt=28&oh=00_AfoasJOzi5qYfniv-lmHVpDT6TzFZqdXj92pu9zzxko-Cg&oe=695E0008",
+            "video_preview_image_url": "https://scontent.fbog3-1.fna.fbcdn.net/v/t39.35426-6/601862761_1416999386741408_8554645954309387127_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jJ2amUdJ2A4Q7kNvwEctGit&_nc_oc=AdlHDplcxtiglhlnSBo_y6U_w-HNudVXNYNqn_Thog1bnagsmPkMUWsrECSudxUH6a0&_nc_zt=14&_nc_ht=scontent.fbog3-1.fna&_nc_gid=VEZtpM1TLsCiUGUO6Abwdw&oh=00_AfrnBX5lEF4EcJYvSd3KxUAnv0ZWzrncwbv3otGtMG3hYA&oe=695E1721",
+            "video_sd_url": "https://video.fbog3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPJ1N_jZVcYdRHobeFuDUix584uEFWZ7vu76ATK56d2QiOGZaIIufArgvUsADjCLITKb-9DHHXaTRQmnaAUaQ5w_PwaMtpnI4Ltx6nM4A.mp4?_nc_cat=103&_nc_oc=AdlTT_4b3xMHY5zGCYmyjBvXFQ2mNJBBUiKLEJbN2_OoTPhQKlni7cAEBViDfCjg57s&_nc_sid=8bf8fe&_nc_ht=video.fbog3-2.fna.fbcdn.net&_nc_ohc=4hz8GU28OcUQ7kNvwE7_3Bk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY2MDQ1MjM5MTMwNDUxNCwiYXNzZXRfYWdlX2RheXMiOjEzMSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=VEZtpM1TLsCiUGUO6Abwdw&_nc_zt=28&oh=00_AfrVZKbMsSykc-Hyq-kAs320QhP4yuAakXQgODjP0-PmfQ&oe=695E1473",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "additional_info": null,
+        "ec_certificates": [],
+        "extra_images": [],
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_videos": []
+      },
+      "spend": null,
+      "start_date": 1766736000,
+      "state_media_run_label": null,
+      "targeted_or_reached_countries": [],
+      "total_active_time": null,
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=shop-2.converty.shop&search_type=keyword_unordered",
+      "ads_count": 9,
+      "start_date_formatted": "2025-12-26 08:00:00",
+      "end_date_formatted": "2026-01-02 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1210839351223041"
+    }
+  ]
+}

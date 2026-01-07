@@ -46,8 +46,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-@st.cache_data(ttl=5)  # Cache 5 secondes pour éviter les requêtes trop fréquentes
-def load_all_data():
+@st.cache_data(ttl=15)
+def load_all_data(refresh_key: int):
     """Charger toutes les données depuis MongoDB (avec cache)"""
     loader = DataLoader()
     data = loader.get_all_data()
@@ -61,17 +61,20 @@ def main():
     # ==================== HEADER ====================
     st.markdown('<h1 class="main-header">📊 Converty Analytics Dashboard</h1>', unsafe_allow_html=True)
     
-    # Timestamp de chargement
+    # Gestion clé de rafraîchissement (casse le cache au clic)
     if 'last_refresh' not in st.session_state:
         st.session_state.last_refresh = datetime.now()
+    if 'refresh_key' not in st.session_state:
+        st.session_state.refresh_key = int(st.session_state.last_refresh.timestamp())
     
     col_refresh1, col_refresh2, col_refresh3 = st.columns([2, 1, 1])
     with col_refresh1:
         st.caption(f"🕒 Dernière mise à jour: {st.session_state.last_refresh.strftime('%d/%m/%Y %H:%M:%S')}")
     with col_refresh2:
         if st.button("🔄 Rafraîchir", use_container_width=True):
-            st.cache_data.clear()
+            # Buster le cache en changeant une clé d'argument
             st.session_state.last_refresh = datetime.now()
+            st.session_state.refresh_key = int(st.session_state.last_refresh.timestamp())
             st.rerun()
     with col_refresh3:
         auto_refresh = st.checkbox("Auto-refresh 30s", value=False)
@@ -80,7 +83,15 @@ def main():
     
     # ==================== CHARGEMENT DONNÉES ====================
     with st.spinner("📥 Chargement des données MongoDB..."):
-        data = load_all_data()
+        data = load_all_data(st.session_state.refresh_key)
+        
+    # Afficher métriques de chargement pour vérifier la fraîcheur
+    st.caption(
+        f"📦 Données: stores={len(data.get('stores', []))}, "
+        f"mappings={len(data.get('mappings', []))}, "
+        f"reports={len(data.get('reports', []))} · "
+        f"chargées à {data.get('loaded_at').strftime('%d/%m/%Y %H:%M:%S')}"
+    )
     
     # Initialiser calculateur et générateur de charts
     calc = MetricsCalculator(data)
@@ -260,8 +271,18 @@ def main():
         st.header("📈 Analyse temporelle")
         
         time_data = calc.get_time_series_data(days=period_days)
+        status_ts = calc.get_status_time_series(days=period_days)
         
         if time_data['dates']:
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                st.metric("📊 Période analysée", f"{len(time_data['dates'])} jours")
+            with col2:
+                st.metric("🆕 Total traité", sum(time_data['nouveaux_clients']))
+            
+            st.divider()
+            
             st.subheader("Évolution du traitement")
             area_fig = charts.create_area_chart(
                 dates=time_data['dates'],
@@ -275,11 +296,38 @@ def main():
             st.subheader("Nouveaux clients traités par jour")
             line_fig = charts.create_time_series(
                 dates=time_data['dates'],
-                values_dict={'Nouveaux clients': time_data['nouveaux_clients']}
+                values_dict={
+                    'Phase 1 (Discovery)': time_data['nouveaux_clients'],
+                    'Phase 2 (Classification)': time_data.get('nouveaux_reports', [])
+                }
             )
             st.plotly_chart(line_fig, use_container_width=True)
+
+            st.divider()
+
+            # Statut des rapports par jour (Phase 2)
+            if status_ts['dates']:
+                st.subheader("Statut des rapports par jour (Phase 2)")
+                status_fig = charts.create_time_series(
+                    dates=status_ts['dates'],
+                    values_dict={
+                        'Rapports actifs': status_ts['active_reports'],
+                        'Rapports inactifs': status_ts['inactive_reports']
+                    }
+                )
+                st.plotly_chart(status_fig, use_container_width=True)
+
+                st.subheader("Clients actifs cumulés (dernier état au fil du temps)")
+                active_cum_fig = charts.create_time_series(
+                    dates=status_ts['dates'],
+                    values_dict={
+                        'Clients actifs (cumul)': status_ts['active_clients_cumulative'],
+                        'Clients inactifs (cumul)': status_ts['inactive_clients_cumulative']
+                    }
+                )
+                st.plotly_chart(active_cum_fig, use_container_width=True)
         else:
-            st.warning("⚠️ Pas assez de données temporelles pour cette période")
+            st.info("ℹ️ Aucune donnée temporelle pour la période sélectionnée. Essayez 'Tout l'historique' dans les filtres.")
     
     # ==================== SECTION 3: CONCURRENCE ====================
     elif page == "Concurrence":
@@ -291,6 +339,16 @@ def main():
             st.warning("⚠️ Phase 2 non complétée - Lancez Phase 2 pour voir l'analyse concurrentielle")
             st.code("python phase2_main.py", language="bash")
         else:
+            # Afficher la date de dernière analyse
+            if data['reports']:
+                latest_report = max(data['reports'], key=lambda r: r.get('analyzed_at', ''))
+                latest_date = latest_report.get('analyzed_at', 'N/A')
+                if isinstance(latest_date, dict) and '$date' in latest_date:
+                    latest_date = latest_date['$date'][:19]
+                st.caption(f"📅 Dernière analyse Phase 2: {latest_date}")
+            
+            st.divider()
+            
             # Top concurrents
             st.subheader("Top 10 Concurrents")
             top_competitors = calc.get_top_competitors(limit=10)
@@ -361,6 +419,41 @@ def main():
             df = df[df['total_ads'] >= min_ads]
             
             st.caption(f"**{len(df)} clients** correspondent aux filtres")
+            
+            # Ajout : historique d'exécution par client
+            with st.expander("🔍 Voir l'historique d'exécution d'un client"):
+                client_ids = df['client_id'].tolist()
+                if client_ids:
+                    selected_client = st.selectbox("Sélectionnez un client", client_ids)
+                    
+                    if selected_client:
+                        history = calc.get_client_execution_history(selected_client)
+                        
+                        if history:
+                            st.subheader(f"Historique pour {selected_client}")
+                            
+                            # Convertir en DataFrame pour affichage
+                            history_df = pd.DataFrame(history)
+                            
+                            # Formater les dates
+                            def format_date(date_val):
+                                if isinstance(date_val, dict) and '$date' in date_val:
+                                    return date_val['$date'][:19]
+                                elif isinstance(date_val, str):
+                                    return date_val[:19]
+                                return str(date_val)
+                            
+                            history_df['date'] = history_df['date'].apply(format_date)
+                            
+                            st.dataframe(
+                                history_df,
+                                use_container_width=True,
+                                hide_index=True
+                            )
+                        else:
+                            st.info("Aucun historique trouvé pour ce client")
+            
+            st.divider()
             
             # Table interactive
             st.dataframe(

@@ -1,0 +1,1411 @@
+{
+  "domain": "gost.tn",
+  "cached_at": "2026-01-05T14:28:49.743271",
+  "ads_count": 13,
+  "ads": [
+    {
+      "ad_archive_id": "2337002663440094",
+      "collation_count": 1,
+      "collation_id": "1659859501526533",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/606901744_1589370825815702_5423215439692074455_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=boC3SaRHoC4Q7kNvwEYulpf&_nc_oc=Adlv6nFlB7K07F1BWsr8K0iyp-WehnujyypT0revDTXvGnzZIOBrhMVjxk2T4T8cNQY&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfrKizVL-22Z14XXa3CE4SAyNvmQ5K71upxKdJXUqv8Oig&oe=69617C1C",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "3 قطرات كل يوم\nوترجّع بشرتك لمعانها الطبيعي ✨\nزيت قلوب الهندي البيولوجي\nيرطّب، يعالج، ويخلّي بشرتك تلمع 🌿\nخفيف، سريع الامتصاص\nومناسب لكل أنواع البشرة\n👉 جرّبيه توّا من gost.tn \nولا كلمنا على 54083012 💚"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "IMAGE",
+        "link_description": "جرّبيه توّا 💚",
+        "link_url": "https://gost.tn/product/zyt-bdhwr-ltyn-lshwky-lbywlwjy?Size=15ml",
+        "images": [
+          {
+            "image_crops": [],
+            "original_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/607057234_1559724228564664_3803238250607360673_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XM6klDAceOYQ7kNvwEVAVuD&_nc_oc=AdkflbAMfvCNUhxDjyo2ZPsFFha2FiuENfMt3Ju_WFwDFgL9A14WzQxcP5gXEliOo10&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfrP65HYKpR8zwWwwc1KUkm5hOYBuCb9v-sIb0Z1ZmwPWg&oe=696184D6",
+            "resized_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/607107768_1098626182276398_3491856916648042138_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aYZBvIePPxsQ7kNvwEaAHps&_nc_oc=AdkuI0KDEn0GdjB23WIOD-A3XTNBMzZQNzA0WCNt30et5uoTCsng6gv3DXZv6lDh5yE&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfoHJ-sMzZ5eCI38kAPjg1zRzB4fBQkSl9pepNjsFqZVLQ&oe=69618A2F",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "زيت قلوب الهندي البيولوجي🌵✨",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1767340800,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2026-01-02 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=2337002663440094"
+    },
+    {
+      "ad_archive_id": "2557829597923580",
+      "collation_count": 1,
+      "collation_id": "894617309913845",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/610944702_823548450674291_7039552005447359920_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1J7MJKMETW8Q7kNvwGiA7bT&_nc_oc=AdlzfDghGPy_gdQent8GSmzk4K_L3Ai9uxOYbNlvSCApfZgWNsvb6ZHqVzupBDYw0EU&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfofMsRQKNnWcYknIiIiBeXT-LfQtOU61hldRO__wfuD8g&oe=69617FEB",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "علاش الهندي سماوه سلطان الغلى ؟ 🤔\n\nالحكاية الكلّ تبدأ من البذور 🌿\nنختارو بذور قلوب الهندي بعناية\nتتنقّى، تتغسل\nوتتحضّر خطوة خطوة في مختبرتنا 🧪\n\nبعدها نعصروها عالبارد\nمن غير اضافات\nومن غير حتى مادة كيميائية ❌\n\nباش يخرج الزيت نقي مركّز ومليان فوائد ✨\n\nباش تعرف اكثر على فوائد الزيت هذا خلي كلمة سلطان ف كومنتار\n\n👉 كماندي زيت قلوب الهندي توّا من gost.tn \nولا كلمنا على 54083012"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "VIDEO",
+        "link_description": "كمّديها قبل ما يوفى الستوك 🎯",
+        "link_url": "https://gost.tn/product/zyt-bdhwr-ltyn-lshwky-lbywlwjy?Size=15ml",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "البوتوكس الطبيعي 🌵🌵✨",
+        "videos": [
+          {
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPSz0yKQ4PHoalGq3qhr89_YTSt66UaN5HZVnybRRH2PHlHRQY0m6MxuERM823lU9MOUxgXAQsQjRLFFzVNNnBoVuIDehm0sO5wVzwU9Zp0Yw.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=FR2GCPrf_1IQ7kNvwGbM5-3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NzgwMzIwMjM5MjQwNzIsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=790ecc4dd762fa09&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQjRCQ0JBMDI3N0YyOUVCNDIwRkY2NTUzOTQ4NUJCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYwNDFEQjU2QUYwNzgzMDNCRjgyODI0RDEwMDIzNEE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQtYXc5JCgBRUCKAJDMywXQET3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afooru2vvjDSar2XnMgIJ9h_iK7opEmI2bJ5_WUydTq9xA&oe=6961A595",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/610931267_4101402466856797_5768944811213239357_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XTzIa02bRrwQ7kNvwGnUkQO&_nc_oc=AdnwqJE-4KBdE3_Hw2ABPKiW_jPsyJoLUCY2m4x7TJZGhxmFI-8Wa4JK48xIflsJodk&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfpFQVHdZNqv4czVwNXfvD9EDwT87tE9Iy28MYpReYpwKw&oe=69619BE8",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMLaye4Uo66qf124a_8-_mv7gFYshRq6V93_nCXJlM7Py3XO_hdthpQWqfqKuDUrVzqN8QYLD-XN2VJx7H9IEbo21EzQdeHt3UmHhN3pg.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=kq_TM9xwsOEQ7kNvwFfzUJa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ3ODAzMjAyMzkyNDA3MiwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afq6RXl28XUUdBruZ9ezV-MGxXe4666NFqFjRAVmVdlteg&oe=696189B4",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1767340800,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2026-01-02 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=2557829597923580"
+    },
+    {
+      "ad_archive_id": "3357426697739378",
+      "collation_count": 1,
+      "collation_id": "1525376171851395",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605857613_896178149420291_214307928322495174_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ULqxUVbwihoQ7kNvwG-SWek&_nc_oc=AdlTa5ey1TKso99U-_tvyi9tsrWO1oGa3V0KK_3SmNeozFyZt4Kryegu7BjH8USyjJM&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afr0ZTFOQf_EXgQAoJo6EqtH1CfqQczWpSt0ic891-AzpA&oe=696183EF",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "زيت قلوب الهندي متاعنا يتصنّع بعناية فائقة 💚\nنختارو البذور بدقة و حرص \nونعصروهم عالبارد\nباش نحافظو على كل الفيتامينات والفوائد ✨\n\nمن غير إضافات\nمن غير مواد كيميائية\nغير زيت أصلي، نقي وفعّال 🌿\n\nيغذّي بشرتك بعمق\nيرجّع النعومة والنضارة\nويقضي على التجاعيد اللي مقلّقينك 🌸🎀\n\nمعمول ليك إنتي خصيصًا\nباش تحسّي بالفرق من أوّل استعمال 💫\n\n👉 كماندي زيت قلوب الهندي توّا من gost.tn \nولا كلمنا على 54083012"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "VIDEO",
+        "link_description": "كمّديها قبل ما يوفى الستوك 🎯",
+        "link_url": "https://gost.tn/product/zyt-bdhwr-ltyn-lshwky-lbywlwjy?Size=15ml",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "البوتوكس الطبيعي 🌵🌵✨",
+        "videos": [
+          {
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMWclRoA8xTXhTpLzvnWxu1Yy94kraS5CzAPKjjp73-eWtwbsIh1FJYbvgTqROuOPQxTiaTbfn4CiOlOSW5KEw1y3LWI7fyi9YJh1NoX7V7Vg.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=f3WqxgT1h2YQ7kNvwGwscvE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDQwNTg5Njc4NTU5MTUsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTAxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5236fce868600afe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QzRBRTA3RTlCMkI5Q0Y5NTRENUQ3MEQ1ODFGQzk4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE1NEVGQkEyM0I3MEJDQjAxOTU4NjA0MkJERDIwOTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWzK7A_r7-BBUCKAJDMywXQFlxBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afr3uqfkKtUSILDm7v8lKMsr1RaHdYNcIGjeB4qS2ZMCkQ&oe=696198E3",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/611255294_1456494392493771_3796309002161775206_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ugbV1HiMMQIQ7kNvwEQeEXz&_nc_oc=AdlYdTy38xxuHOllAqw7EmdFQYEbfSXE9pOwD6us9eIXbU9hTFeO7tpcFX4cNCGhdHc&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfocYoYbZVx8GZFDI2vE-NbSzcBUX1k4YNXzKTctcDKFcA&oe=69619154",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNqyz31LUaHsKrR0ugknqeCFnFh8FTVj6LE7izXPpJxMkPRT8U6Q1LCjzNDo-OG2B699Z7dSvXdh5DKdMfINBYfooi8e4dATOS2RyVNjA.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=ECFPoFR5DOYQ7kNvwGH4uon&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQwNDA1ODk2Nzg1NTkxNSwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afo87UhljdMVdojurlF7JpfGGN6PcunjADpm8AGi114Gyw&oe=6961858D",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1767340800,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2026-01-02 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=3357426697739378"
+    },
+    {
+      "ad_archive_id": "2659749991042013",
+      "collation_count": 1,
+      "collation_id": "1885505899000991",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/608192339_1403770901396993_2496450901342253549_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8wHJUQAWeeYQ7kNvwHeOPGQ&_nc_oc=Adlt_aeamR1mv37nFY28znbF-QNQTDN9WKQGrmTP8JMT5BgN3S97JPyKJmu5cy5bQ7s&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfpaO1y1OTQ6PMe6i7xh_KVB_5ZF-pLkj-CuFHcckGE7Vw&oe=69618E56",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "جفاف، بهتان، تجاعيد دقيقة؟\nالحلّ الطبيعي بين يديك 🌿\nزيت قلوب الهندي البيولوجي\nيساعد بشرتك ترجع نضرة وصحّية\nفي 30 يوم من الاستعمال المنتظم ✨\nزيت مستخرج على البارد\nومتحصّل على شهادة بيولوجية\nكمنديه توا و رجّع لبشرتك شبابها الطبيعي 💚"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "IMAGE",
+        "link_description": "جرّبيه توّا 💚",
+        "link_url": "https://gost.tn/product/zyt-bdhwr-ltyn-lshwky-lbywlwjy?Size=15ml",
+        "images": [
+          {
+            "image_crops": [],
+            "original_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/610748668_715440994694272_2668997361576847038_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AIhcmvGU4tkQ7kNvwGss2Z9&_nc_oc=AdkN1JysovG71bhzEvBrIi3l_zAa1GMzLsfSrZKTa7mUrzpZKNONcoWRpjR53VmpKrY&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afplz3U4d9ZmoCoX-G6kGmJXHu1_NZocnVxQZBRjsGQmlw&oe=69619A5A",
+            "resized_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/606027183_1208295037473592_312979169946102217_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zasAN_NpuhkQ7kNvwF-ZO-r&_nc_oc=AdnpB_R5Dtm-5s9q4nN0LamuQl0NG4wf5cmePfMax52qXW1b_QJmVViw2MVgEp3b6Nk&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfrX9lH7UCqIxCCgNcLWF_N6r1Hc1_ez8Cuh9xUR60HIDQ&oe=696199F4",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "زيت قلوب الهندي البيولوجي🌵✨",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1767340800,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2026-01-02 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=2659749991042013"
+    },
+    {
+      "ad_archive_id": "24952046917808582",
+      "collation_count": 1,
+      "collation_id": "1543884746895125",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605662554_1173521058096157_3805610182976558495_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FNlnPPJYNIUQ7kNvwE5xz0h&_nc_oc=AdlSZqoIhndfZk0ZOfNJqwgtNbZNK-5-u0QSR86saaRwBkPmMGbqSeMbp83Bv9Mwp6g&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfrIHmAwJizzCTKERDGpIoKFOJQMSSA3K0-P5G0_slQNvg&oe=69618E09",
+        "event": null,
+        "caption": "Gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "تصدّق الي أكثر من 85% من الناس تحسّنت تحاليل السكر متاعهم في أقل من شهر!!! 📊\n\n✔ مع خلطة تنظيم السكر في الدم و المخزون\n📌 تتنظّم\n📌 ترتاح\n📌 وتتحكم في حياتك\n\n📉 تبطئ امتصاص السكر في الدم\n🌿 متكوّنة من أعشاب طبيعية 100%\n\n🚚 ماتخليش السكر يتحكم فيك كمنديها توا من gost naturel \nيوصلك الباب الدار🤩\n👇 👇 👇\nhttps://gost.tn/product/khlt-ltnzym-lskr-w-lmkhzwn"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "VIDEO",
+        "link_description": "كمنديها تو",
+        "link_url": "https://gost.tn/product/khlt-ltnzym-lskr-w-lmkhzwn",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "ماتخليش السكر يتحكم فيك",
+        "videos": [
+          {
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNCz01oGS8SzdBRpIgTbAFTXW7tp17c9qZBJ4X2Ryn1ScTwu_nK-qVEHk-I943r17nN1z7TU01pIAdch8C7xaHlDF2nLRwNnn6HIfkuifXzhA.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=g1ULLdv4StIQ7kNvwFqomUb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNTU3ODM5NDk1Nzg3MjQsImFzc2V0X2FnZV9kYXlzIjoxNDUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=af5c158d7fc7608f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BODQzMUFEMUYxQkM0MDNFNzRCNThBNzBBNDFCQTBCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNEIxNUNDQzdCNzk1MzUxRjFEQkVFNDc4OTBDQzgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIx9XDn4i7BBUCKAJDMywXQEumZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afp97yNONanWkuKGUcIfAvpkvHc31pkaEojTarhC3CAkZA&oe=69619929",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605719519_1910002296263949_6019408051579135167_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oBqHrW5P2pEQ7kNvwGZC6HL&_nc_oc=Admb3BQp48iaDMF17u99JaBZ93rsEWRjK68xvTqz_Ovav8Zm8FVeQy2z290e8D9WhTE&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afou2IZlYR934SD4Glx8cceITH4rxJ_L7RYSyt5oHAsQyA&oe=6961AB02",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPw2kwRnw6TdQzIKJz0A_gUclzrPUcMohStVbBRk1CpqdsMMShUBg0gazK2yCg7riMw6lBpyJtfAhWJRGs5fwvLwZNPaBttjsWd_NIjTA.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=Ke2hSV3phYkQ7kNvwFtIZYW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI1NTc4Mzk0OTU3ODcyNCwiYXNzZXRfYWdlX2RheXMiOjE0NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfryCM-paq-suBYOiMUk9hPz_JgebUcivBLy5cFy2Xofkg&oe=69619B61",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766995200,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-29 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=24952046917808582"
+    },
+    {
+      "ad_archive_id": "1375770310623517",
+      "collation_count": 1,
+      "collation_id": "3983102788619143",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605635491_4332116670449039_8273410741376021329_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e2whETMYQkUQ7kNvwEjhEIp&_nc_oc=AdlGMYBPJqC_udMBeiGlf0dSiYmBGHzI_GcEQCBKoYYdsxUFNoMd-YEs0U5wIEhlxy8&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afpuh70JdrdIwRy6XWCgzw6NCcbowS44Gt3SpWLo1KNhCw&oe=69617D3B",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Order now",
+        "cards": [],
+        "body": {
+          "text": "مغرفة أكاهو يوميا قادرة تحميك🛡️\nما عليك كان تكمندي خلطة تنظيم السكر والمخزون🥄\nتشربها كل يوم على الخوا وتعيش حياتك مرتاح😊\nكلمنا على 54083012📞\nيوصلك بلاش + إمكانية الاسترجاع في 48 ساعة⏳"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "VIDEO",
+        "link_description": "ساهلة وسريعة والمفعول⚡",
+        "link_url": "https://gost.tn/product/khlt-ltnzym-lskr-w-lmkhzwn",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "الخلطة الي يستحقها كل مريض سكري 💚",
+        "videos": [
+          {
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMc8qMXBKSvElbc6qyIHgAVVKRcyVWx0V7ycM4mSoaHkMYwqaqavJ4mQpaNjrpHoAP4qveIwYfJh7F7C6Ni9324_J3R_earCJF_ezQbRhc4lw.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=epEcMJvxJtoQ7kNvwF1S-eY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcwMDg3NDI3NjAzNTk3NCwiYXNzZXRfYWdlX2RheXMiOjIxMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=44e8c77fa197667f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMDQ1NzJEMEY0QUFENzNBOEQyQUQ1OTQ4RThBNTlBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMeWpEUjdtN2FNRTVaVURBQzdYcm9UdzE0b1lidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaM9oqkoNy-AhUCKAJDMywXQCWIMSbpeNUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afof-CUB21yT8YrjRQj0w6CQAnWx-sGE9BR98ZijzR2dGg&oe=69618E35",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/606397076_1311065794373016_317279566414094313_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tf11CI-B1IoQ7kNvwHqjRkJ&_nc_oc=AdndpD6QbzMm37MWbOg_ccAuYblb3SgonTNp-rvSqBg4B5xD6w4-49gnEAtWUEqNFWY&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfqtUQ5jsTQL6sJtBlXCAJjp51ZokB_3VfU8pVqG-bwzvA&oe=69618F24",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQOwd_Z1OZV1aXI5YLZt7OnwCUkRcJo4bwd4X7No-WARMdYvImOOu8eDecDSi45HWWul3EbHFBeABlaDqWiznhmQ.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=lR4YhS1exvcQ7kNvwHAUpqh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NzAwODc0Mjc2MDM1OTc0LCJhc3NldF9hZ2VfZGF5cyI6MjEyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afrw1lqzPEAL1Hm0uRh4Z8nIvDPBySVXfD6Y29pbUW1eMw&oe=6961A928",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766995200,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-29 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1375770310623517"
+    },
+    {
+      "ad_archive_id": "3354968891623336",
+      "collation_count": 1,
+      "collation_id": "842790738528220",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/603872825_1505278450564123_5334678546729607235_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9teeKravlUEQ7kNvwG6EIjF&_nc_oc=AdlS8G8LiItTND1ELvjF3Wo79is2sVrzkc3XESJEdFYOAsrvSjFEbk-yzUfJBR2VuC8&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfqxpzHZShr6RGjqmCa-xHUk1cTJjI8VzZLG3SpEWdfg8g&oe=69617789",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "خلطة طبيعية 100% 👌\nتحسّنلك نظامك الغذائي و تقويلك مناعتك 💪\nمتكونة من القرفة السيلانية، الحلبة الرومانية، الترمس، وأعشاب طبيعية أخرى\nتعاون خلطتنا في تنظيم منسوب السكر في الدم  والمخزون 😁\nتسّهل حياة لمريض ❤️\nوتنقصلو مشاكلو الصحية  بفضل مكوناتو الطبيعية المفيدة لمرضى السكري \n🤗\nكمنديه من 🌐 gost.tn والا كلّمنا على 54083012 ☎️\nيوصلك الباب الدار🤩"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "VIDEO",
+        "link_description": "كمندي تو خلطة تنظيم السكر والمخزون 🥰",
+        "link_url": "https://gost.tn/product/khlt-ltnzym-lskr-w-lmkhzwn",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "تعايش مع مرض سكر مع gost naturel 😀",
+        "videos": [
+          {
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMJltUEX2ltBM0Pej-z1u1rNT_I_0LIrv6kli9vJFaArPnSSdGDj2NarMFizvE9nmbw1hqy_A5HqHzkC5OQZoAhubVYsoE-L8XLwEl6miUz5w.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=KSA8zEm4ckgQ7kNvwGdLa3C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc4MTI5NDk5NDkwMTczNiwiYXNzZXRfYWdlX2RheXMiOjc1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ae1cfe37251c842a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MTRCNEY0QTM4OUJEM0UzNEZFQjBCNTE1RUFDMjU5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlBNDJGNTNBODhCNjA4QkIzNjVBMjAwNDMxMURDQUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQq5aqraXjAhUCKAJDMywXQDwAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afqr3C4te1IxZnrSVs0p1GQyJF4e_iJc1VRGVlW_TpJvuQ&oe=69617FD7",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/602895848_1517424256148497_598201663290243040_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lTgkrKtTZa8Q7kNvwHOuJDF&_nc_oc=Adm8MWovI8GtGHo4rpOKzH8TdzsOaB94kjo_MCyGBJ4EUxLLgzEJMla_hRMNuqbW7aA&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfqqJq83LDrAvlgB40Oax9-eaCslEpDuLiMS61aQn3ma0Q&oe=69618DD9",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNOnPrRNW43WkqJzft-GAy44AhZ48vq3ZuRXoHLwMJV1NnbN_U5Ec7u0xBVXXnTON8NIU2w4PT2WPjeIvN84tkkiLSeSRKC6BDOt0BFyA.mp4?_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=_mpUkvLjircQ7kNvwH1Ux2j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NzgxMjk0OTk0OTAxNzM2LCJhc3NldF9hZ2VfZGF5cyI6NzUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afqd8WhH34UTplz38m9UZQ4i5oPxy3urCfHnMgSlDM9hsg&oe=6961A4CA",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766995200,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-29 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=3354968891623336"
+    },
+    {
+      "ad_archive_id": "1367296744584530",
+      "collation_count": 1,
+      "collation_id": "33350829734531074",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/606060247_1205130021557702_6814878108133369288_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6PG5Yv8ZHyMQ7kNvwHuRi8E&_nc_oc=AdnqNlBwQVce0ZjnzMtpqpQkBMjIiOJcuYEleJRnJ17bPPobWlC7W9wTbWFokqf92Ac&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfqsyX0GnoTjPYtqc3WA022CvH_3oycmsVMDBO1Jjj535g&oe=69618DC7",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [
+          {
+            "body": "نعرف الي فديت من المواقف المحرجة 😥\nعلى خاطرك تعاني من التبوّل اللإرادي 😔\nالحل هذا مجرّب وآمن ✅\nيقضيلك على المشكلة نهائيا 🎯\nكمنديها تو من gost.tn 🛒\nوالا كلّمنا على 54083012 ☎️",
+            "cta_type": "SHOP_NOW",
+            "caption": "gost.tn",
+            "link_description": "أقض على المشكلة نهائيا 🚫🛑\n",
+            "link_url": "https://gost.tn/product/khlt-l-aashb-lltbwwl-llrdy?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp55af83hw52znd1",
+            "title": "تعاني من التبوّل اللإرادي؟ 😳💦",
+            "cta_text": "Shop Now",
+            "video_hd_url": null,
+            "video_preview_image_url": null,
+            "video_sd_url": null,
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605635015_2300226883736575_2630647653424942858_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fom8ffNWn8QQ7kNvwGV9ghu&_nc_oc=AdkFyWjF22QKfzWX3_wbeGzN7nyom_24iQnY-zvHZB7k9fehEh9tWl53Z_AUQfFQIWg&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afoe31eZwxT5xtuW4kBurd_XPS0sznRQ2u0aXn13ejw8vw&oe=69619CA0",
+            "resized_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605531852_1943166313249183_6833223777319426009_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g4x0g1J2O50Q7kNvwFOG0qG&_nc_oc=AdnXDTZXPI034263Og8SMZWZGm7R8_JWe5OGHT0MDnnovF7xvjySE3_jlI93xd0RloI&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afp3ELQQFrmrBjpQu8kjOgUrMsSSMXdBz8pf_Rmy52BOGw&oe=696187DA",
+            "watermarked_resized_image_url": ""
+          },
+          {
+            "body": "نعرف الي فديت من المواقف المحرجة 😥\nعلى خاطرك تعاني من التبوّل اللإرادي 😔\nالحل هذا مجرّب وآمن ✅\nيقضيلك على المشكلة نهائيا 🎯\nكمنديها تو من gost.tn 🛒\nوالا كلّمنا على 54083012 ☎️",
+            "cta_type": "SHOP_NOW",
+            "caption": "gost.tn",
+            "link_description": "أقض على المشكلة نهائيا 🚫🛑\n",
+            "link_url": "https://gost.tn/product/khlt-l-aashb-lltbwwl-llrdy?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp55af83hw52znd1",
+            "title": "تعاني من التبوّل اللإرادي؟ 😳💦",
+            "cta_text": "Shop Now",
+            "video_hd_url": null,
+            "video_preview_image_url": null,
+            "video_sd_url": null,
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605635015_2300226883736575_2630647653424942858_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fom8ffNWn8QQ7kNvwGV9ghu&_nc_oc=AdkFyWjF22QKfzWX3_wbeGzN7nyom_24iQnY-zvHZB7k9fehEh9tWl53Z_AUQfFQIWg&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afoe31eZwxT5xtuW4kBurd_XPS0sznRQ2u0aXn13ejw8vw&oe=69619CA0",
+            "resized_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605531852_1943166313249183_6833223777319426009_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g4x0g1J2O50Q7kNvwFOG0qG&_nc_oc=AdnXDTZXPI034263Og8SMZWZGm7R8_JWe5OGHT0MDnnovF7xvjySE3_jlI93xd0RloI&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afp3ELQQFrmrBjpQu8kjOgUrMsSSMXdBz8pf_Rmy52BOGw&oe=696187DA",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "body": {
+          "text": "{{product.brand}}"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "DCO",
+        "link_description": "{{product.description}}",
+        "link_url": "https://gost.tn/product/khlt-l-aashb-lltbwwl-llrdy?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp55af83hw52znd1",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "{{product.name}}",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766822400,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-27 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1367296744584530"
+    },
+    {
+      "ad_archive_id": "1197229111909557",
+      "collation_count": 1,
+      "collation_id": "1485931819174343",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/607989209_1117063533687831_1840265820987735967_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SrdUjP0njCwQ7kNvwF631Gv&_nc_oc=Adljt0l6uYka4ut5qehGJSbbFD9tOXRgFqvHhvXutmX_IMOJkynPaR2PtFNXFeJDjH8&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfreV7qsYg-sY9qsm59wMlmGF7BL9oiI3FBP6na84-u4jQ&oe=696192EC",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [
+          {
+            "body": "تحب تعيش حياتك بالطول والعرض 🌍 \nوقيت تطلب خلطتنا لتنظيم السكري والمخزون 🩸\nأطلبنا تو على 54083012 📞",
+            "cta_type": "SHOP_NOW",
+            "caption": "gost.tn",
+            "link_description": "عمرك تخيلت حياتك منغير مرض السكري كيفاش؟ 😥",
+            "link_url": "https://gost.tn/product/khlt-tsaad-aal-tnzym-lskr-fy-ldm-w-lmkhzwn?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp4z7dy3c804ro9q",
+            "title": "كانك مريض سكري المنتوج هذا ليك 💚",
+            "cta_text": "Shop Now",
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP3dR-aXeIcRXRFbhm7_n0u0wPtlYtxPP98tk7G5VhCqeGklxND_dGW83uwHrHt9k9FUui0J2CLCcrRpdzW0wFL3coAOcomSro6IgnfBtef2A.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=lPCL4AgK-0gQ7kNvwFDALzm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2ODM1MDQyMzU4NzUzNTAsImFzc2V0X2FnZV9kYXlzIjoyNTksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b7e9005811bfd61&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQyREI3RjlGNzhGNzgxRTY2MTAwMTJFQkVBMDlBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLRmhTeDJsaVZ1MF9PSURBTXBWTC1iNm8yRUFidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACassKj_68j9BRUCKAJDMywXQECMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfrPy2Wyb4QNeARzwdYTaDSj7E8504Y_h0h3-HG0IlPnZQ&oe=6961A241",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/607968411_1561521165062624_9155145986633925596_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xu9lh2VvLd4Q7kNvwFC4_E2&_nc_oc=AdnZC32TklI1YIppBmcr-CTCO3EGkTxfPgspIkx6Q8m81jL45qDYMFzBrSZdgSJSKWI&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfoNzM_-43snBL3_vcrZsaLh46Z6tPSK9LqXruBrAF0gVw&oe=696197CB",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMLT8oZTFvA_Q8z4_B-F_J5kIh7ehJ2pEJMpF9LLK3thNr_UwYRLvXKdQBL_4fAdpwGpqH4ShGRr1sqkrxjAreL.mp4?strext=1&_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=Rcn0q5MRYSUQ7kNvwEqSnwe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY4MzUwNDIzNTg3NTM1MCwiYXNzZXRfYWdlX2RheXMiOjI1OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afr8iOaFIhOguX9ImeUMVQSQxR2_V4Gf4S-4KWhqY6HZ-g&oe=696191B3",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": null,
+            "resized_image_url": null,
+            "watermarked_resized_image_url": null
+          },
+          {
+            "body": "تحب تعيش حياتك بالطول والعرض 🌍 \nوقيت تطلب خلطتنا لتنظيم السكري والمخزون 🩸\nأطلبنا تو على 54083012 📞",
+            "cta_type": "SHOP_NOW",
+            "caption": "gost.tn",
+            "link_description": "عمرك تخيلت حياتك منغير مرض السكري كيفاش؟ 😥",
+            "link_url": "https://gost.tn/product/khlt-tsaad-aal-tnzym-lskr-fy-ldm-w-lmkhzwn?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp4z7dy3c804ro9q",
+            "title": "كانك مريض سكري المنتوج هذا ليك 💚",
+            "cta_text": "Shop Now",
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP3dR-aXeIcRXRFbhm7_n0u0wPtlYtxPP98tk7G5VhCqeGklxND_dGW83uwHrHt9k9FUui0J2CLCcrRpdzW0wFL3coAOcomSro6IgnfBtef2A.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=lPCL4AgK-0gQ7kNvwFDALzm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2ODM1MDQyMzU4NzUzNTAsImFzc2V0X2FnZV9kYXlzIjoyNTksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b7e9005811bfd61&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQyREI3RjlGNzhGNzgxRTY2MTAwMTJFQkVBMDlBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLRmhTeDJsaVZ1MF9PSURBTXBWTC1iNm8yRUFidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACassKj_68j9BRUCKAJDMywXQECMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfrPy2Wyb4QNeARzwdYTaDSj7E8504Y_h0h3-HG0IlPnZQ&oe=6961A241",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/607968411_1561521165062624_9155145986633925596_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xu9lh2VvLd4Q7kNvwFC4_E2&_nc_oc=AdnZC32TklI1YIppBmcr-CTCO3EGkTxfPgspIkx6Q8m81jL45qDYMFzBrSZdgSJSKWI&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfoNzM_-43snBL3_vcrZsaLh46Z6tPSK9LqXruBrAF0gVw&oe=696197CB",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMLT8oZTFvA_Q8z4_B-F_J5kIh7ehJ2pEJMpF9LLK3thNr_UwYRLvXKdQBL_4fAdpwGpqH4ShGRr1sqkrxjAreL.mp4?strext=1&_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=Rcn0q5MRYSUQ7kNvwEqSnwe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY4MzUwNDIzNTg3NTM1MCwiYXNzZXRfYWdlX2RheXMiOjI1OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afr8iOaFIhOguX9ImeUMVQSQxR2_V4Gf4S-4KWhqY6HZ-g&oe=696191B3",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": null,
+            "resized_image_url": null,
+            "watermarked_resized_image_url": null
+          }
+        ],
+        "body": {
+          "text": "{{product.brand}}"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "DCO",
+        "link_description": "{{product.description}}",
+        "link_url": "https://gost.tn/product/khlt-tsaad-aal-tnzym-lskr-fy-ldm-w-lmkhzwn?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp4z7dy3c804ro9q",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "{{product.name}}",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766822400,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-27 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1197229111909557"
+    },
+    {
+      "ad_archive_id": "1373616127639483",
+      "collation_count": 1,
+      "collation_id": "1249088150131093",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/607790054_2194636287977385_6219735115230335888_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HsItzopq3xQQ7kNvwE_C3m1&_nc_oc=Adns3jnV5-ClolwV9KZDui76nyt9PwVM31MvTDtr39ICsfPdvJ33JBSoD0cLKWWTQNI&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfqUlC7RQhyYVQdJieD3bzPvlzatVf3uiDNuMRYzE85adQ&oe=69618827",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Order now",
+        "cards": [
+          {
+            "body": "تعبت من الأدوية الكيميائية؟\nجرب الحل الطبيعي والآمن!\nخلطة الأعشاب للبروستاتا من Gost Naturel تساعدك على تخفيف الأوجاع وتحسين الراحة البولية.\nمكونات طبيعية مختارة بعناية لدعم صحتك.\n📞 اطلب الآن عبر @[527093693811630:+216 54 083 012]\n🚚 توصيل مجاني إلى باب منزلك.\nhttps://gost.tn/product/khlt-l-aashb-llbrwstt\n​",
+            "cta_type": "ORDER_NOW",
+            "caption": "gost.tn",
+            "link_description": "اطلب الآن",
+            "link_url": "https://gost.tn/product/khlt-l-aashb-llbrwstt?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp4ow4c34nrik5xw",
+            "title": "ودّع أوجاع البروستاتا مع خلطة الأعشاب الطبيعية​",
+            "cta_text": "Order Now",
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOVqkUyft4HKtbZLL5V6HLCnptXLW7JO86iH8B5861R4RIUSGRvwpPenVCuUUK8F3tYLJ4hZ7vxf3SfrwHLBmFZEMg1M6jGvyAdODeC3R5_xA.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=WtvE-aFJ7YIQ7kNvwFv7dNg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTU5NjQyMzM0NTkyNDIsImFzc2V0X2FnZV9kYXlzIjoyNTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e88305ebca92adda&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMjRENTIwN0I0RjQ4QjcwNUNCREU5RjA4MEJERDFCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBMHdVeDJYeGN0YS05RUZBT0JvdU5JSDVpc0tidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUmOuz84DOAxUCKAJDMywXQEZd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfoFrFfizNlTU6TUGsss5jLehPYuohucFL3QqvwXJ61Zzw&oe=6961765D",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/606724636_724524223630122_534955672110964619_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ko_YszY1_JoQ7kNvwH0-a6Z&_nc_oc=AdkvsUCtM5lP5pZ46m6e-lEsXV32tXZcIyh2uUrSI11j1qwYpZd7Z9HAaCol4XYQuDc&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfozIUrqmKGTNWDYORA7Ioy4c69TleG8T8AAFA6y7LQ-0A&oe=69619435",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQP4csHYWur-YpDBwjL4Rule1XadtlCu26oLAMz_aCuakCHuNkFOjrFcm4GyC2JkjingkceUKsb2Km5TkATwNBuv.mp4?strext=1&_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=69kviKluy4cQ7kNvwHdNxA7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAxNTk2NDIzMzQ1OTI0MiwiYXNzZXRfYWdlX2RheXMiOjI1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfqC7_351eoY4eZFKYAbae0vQgDNY6zaX-Vid6j2jgVMrQ&oe=69618CDA",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": null,
+            "resized_image_url": null,
+            "watermarked_resized_image_url": null
+          },
+          {
+            "body": "تعبت من الأدوية الكيميائية؟\nجرب الحل الطبيعي والآمن!\nخلطة الأعشاب للبروستاتا من Gost Naturel تساعدك على تخفيف الأوجاع وتحسين الراحة البولية.\nمكونات طبيعية مختارة بعناية لدعم صحتك.\n📞 اطلب الآن عبر @[527093693811630:+216 54 083 012]\n🚚 توصيل مجاني إلى باب منزلك.\nhttps://gost.tn/product/khlt-l-aashb-llbrwstt\n​",
+            "cta_type": "ORDER_NOW",
+            "caption": "gost.tn",
+            "link_description": "اطلب الآن",
+            "link_url": "https://gost.tn/product/khlt-l-aashb-llbrwstt?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp4ow4c34nrik5xw",
+            "title": "ودّع أوجاع البروستاتا مع خلطة الأعشاب الطبيعية​",
+            "cta_text": "Order Now",
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOVqkUyft4HKtbZLL5V6HLCnptXLW7JO86iH8B5861R4RIUSGRvwpPenVCuUUK8F3tYLJ4hZ7vxf3SfrwHLBmFZEMg1M6jGvyAdODeC3R5_xA.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=WtvE-aFJ7YIQ7kNvwFv7dNg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTU5NjQyMzM0NTkyNDIsImFzc2V0X2FnZV9kYXlzIjoyNTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e88305ebca92adda&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMjRENTIwN0I0RjQ4QjcwNUNCREU5RjA4MEJERDFCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBMHdVeDJYeGN0YS05RUZBT0JvdU5JSDVpc0tidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUmOuz84DOAxUCKAJDMywXQEZd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfoFrFfizNlTU6TUGsss5jLehPYuohucFL3QqvwXJ61Zzw&oe=6961765D",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605842762_3768299969967065_4150446814451163327_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RFAVfKChiMMQ7kNvwHnTWa9&_nc_oc=AdlZgDlGq0t5BUNOOktSAn6-xgZ4w30rfm7HhCjZc_m_4OP3AVS8XGYkhMAHWOxhG8U&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afo74Zg3qitD5eJV88WM6yqFXZfYZ3UQAOKqSWqvKV1t1w&oe=696175B4",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQP4csHYWur-YpDBwjL4Rule1XadtlCu26oLAMz_aCuakCHuNkFOjrFcm4GyC2JkjingkceUKsb2Km5TkATwNBuv.mp4?strext=1&_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=69kviKluy4cQ7kNvwHdNxA7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAxNTk2NDIzMzQ1OTI0MiwiYXNzZXRfYWdlX2RheXMiOjI1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfqC7_351eoY4eZFKYAbae0vQgDNY6zaX-Vid6j2jgVMrQ&oe=69618CDA",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null,
+            "image_crops": [],
+            "original_image_url": null,
+            "resized_image_url": null,
+            "watermarked_resized_image_url": null
+          }
+        ],
+        "body": {
+          "text": "{{product.brand}}"
+        },
+        "cta_type": "ORDER_NOW",
+        "display_format": "DCO",
+        "link_description": "{{product.description}}",
+        "link_url": "https://gost.tn/product/khlt-l-aashb-llbrwstt?utm_medium={{campaign.name}}&utm_campaign={{adset.name}}&utm_content={{ad.name}}&+ad_id={{ad.id}}&%0A+adset_id={{adset.id}}&%0A+campaign_id={{campaign.id}}&%0A+placement={{placement}}&%0A+site_source_name={{site_source_name}}&%0A+cuid=mjp4ow4c34nrik5xw",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "{{product.name}}",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766822400,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-27 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1373616127639483"
+    },
+    {
+      "ad_archive_id": "853538717643063",
+      "collation_count": 1,
+      "collation_id": "2086772598526362",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/559006105_1027332619442977_4564154365780442115_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DzKNGlK8ov4Q7kNvwFMFgOz&_nc_oc=AdlRiAuuWAlsBp--1ST_GX3uZt80fVp4qMcNSDa1DHzZZtQhWv3XnVuHHK5TU87_B94&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfrY1JzKHmkDe3f52ohxtMIzgKJHGXAzLAH64fxmwRbXOQ&oe=69617FE0",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "💬 الأرقام ما تكذبش…\n الممثل لطفي بندقة كان 1.45 g واليوم 0.92 g بعد ما جرّب خلطة Gost لتنظيم السكر والمخزون 🌿\n✨ تركيبة طبيعية 100٪، مدروسة وفعّالة…\n الطبيعة وحدها كانت الحل 💚\nخلطة آمنة ومجربة من توانسة شافو الفرق بعينيهم\n💚 صحتك ما تستناش ⏳\n👉 اطلبها توا من gost.tn \n📞 أو كلمنا على 54083012\n🌿  وعيش الفرق بنفسك"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "VIDEO",
+        "link_description": "جرّبها توا وعيش الفرق",
+        "link_url": "https://gost.tn/product/khlt-ltnzym-lskr-w-lmkhzwn",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "حتى لطفي بندقة اختار الطبيعي  والنتيجة تحكي وحدها",
+        "videos": [
+          {
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN0lE3UC1FJbsDuVytcjHCa2GeT-Xl39NlxE2vaO9RCrnZc3FbF_HnGgQknlooCM9SUhsLcq9auisitWowWLatDESs-y02apN4CFnhqfCzVlw.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=n_ESD6SdMUsQ7kNvwHqgNRi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0OTM5MDgwNDg1NDM5NDYsImFzc2V0X2FnZV9kYXlzIjo4NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjc2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9a209980a05fccd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNDQ4NEM4MTBCMkM0OENFMTU5QTBFRDNCMjRFMjM5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNENDgyQTBEQzFGNjc2MzE1OEEwQUJGMTNDRTQ2QUFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUg_yo8qynBRUCKAJDMywXQFMAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfqYzD38ElUxaNTMRHU7trzJgAJgCKpnZMzebBkyfPUmcA&oe=6961918E",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/559083149_1627557821795264_389132144334841187_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cxiJOgNLJN8Q7kNvwFmlUyB&_nc_oc=AdmvSlSk9D6QmBC1Sy1krYUJxpFA3smDP2kohIrVDBg7ezfiOmz-ZsAc2Nl7vWtrOIk&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfoEIK7CYGdAeN9MnBMbzcCsnRm2w1f7V8VXqVf2ExuVSg&oe=69619ACA",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNC1T8IW875MbMvWuKszEwY8vkGkxEbeZPXq9F3kkilGLLpjBJcgNuBSfFtUQh_Hdh6w5R5ooRNFEBJE3IH1CHuW-Qlay1imGxUTybp9w.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=6R_GDw1PAHQQ7kNvwHUBxru&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ5MzkwODA0ODU0Mzk0NiwiYXNzZXRfYWdlX2RheXMiOjg1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afo1n852E4xoJgpJ82KGJlEIboMjZnyfQ_o9CY_CJNimXA&oe=6961952B",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767081600,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766476800,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-23 08:00:00",
+      "end_date_formatted": "2025-12-30 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=853538717643063"
+    },
+    {
+      "ad_archive_id": "1430519641953563",
+      "collation_count": 1,
+      "collation_id": "852524094167323",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/605151908_1189077379494675_7516495161845355727_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L51Srn6sAMkQ7kNvwFs-T84&_nc_oc=AdmBppGlkirSXEVYbdqcjUq9nT-YMITyng42t_DNHCdBMOxOlrn-b281FUOR0j9Dhng&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfqtAQY6WCrcNs1HTJIVyCwdh_XNMG8MknKltNHdXrdyaA&oe=6961975C",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "ما ثماش فرحة خير من انك تشوف والديك يتحسنو ❤\nزبوننا خذا الخلطة الطبيعية لتنظيم السكر لبوه، والنتيجة فرحته 💪\nالحل طبيعي 100٪ من Gost Naturel 🌿\nكلامكم وحدو يكفي 💚\nتحب تشوف نفس النتيجة؟\nكلمنا على 54083012 📠\nوالا كمنديه من gost.tn 🌐"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "IMAGE",
+        "link_description": "مرحبا بيك في موقع Gost Naturel أكيد راك تحب تعرف شكون نحن؟ أحنا موقع إلكتروني مختص في بيع جميع الأعشاب والزيوت الطبيعية 100% بخبرة بسيطة وبرشا أعشاب ومنتوجات طبيعية، تنجم ت....",
+        "link_url": "http://gost.tn/",
+        "images": [
+          {
+            "image_crops": [],
+            "original_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/601822246_2658910917798416_1537042867401150784_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T4w4we0TwK4Q7kNvwFK3Vzm&_nc_oc=AdmKGRGG4TTyGul2fkCLmTBMgpP73dL0nTLajVda5pyMNkxeonnXM10oEduzldimcqM&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfoXLtx81kGeCiu-5qLf_5_VU2WRjXuzJ2iAhIXtwbldFg&oe=6961821C",
+            "resized_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/603883750_1414055340155176_4716652357210497850_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=InOTXlbixI8Q7kNvwGt9dqR&_nc_oc=AdmNOcDQt8gpmKPhbcKLQOqEEdKpIgnv5Hk5KXRCxdhekmBgF6FmavZdQwBsOJiFTKs&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afq2Q54u33NdYwUBtBfttUZuC5gOXUrhs_AIPXijc-uVBA&oe=69619996",
+            "watermarked_resized_image_url": ""
+          }
+        ],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "صحتكم اولوياتنا 💖",
+        "videos": [],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1766995200,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766476800,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-23 08:00:00",
+      "end_date_formatted": "2025-12-29 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1430519641953563"
+    },
+    {
+      "ad_archive_id": "1215014220487124",
+      "collation_count": 1,
+      "collation_id": "1398025451749142",
+      "page_id": "523559550831711",
+      "snapshot": {
+        "branded_content": null,
+        "page_id": "523559550831711",
+        "page_is_deleted": false,
+        "page_profile_uri": "https://www.facebook.com/61567847978387/",
+        "root_reshared_post": null,
+        "byline": null,
+        "disclaimer_label": null,
+        "page_name": "Gost Naturel",
+        "page_profile_picture_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/562365139_826251179769835_1804140912521691535_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ps_9hm0dD0Q7kNvwHXsMhI&_nc_oc=AdkLJ2CLygZM8q9YKDcK34WbGHWVaByiXWbBtQPFzXbDMXkGQaPS7gzHQSxe5bnWKGU&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_Afo0vmjtWN-wgoKxVr06cvVtUB40Vv_AjSnuJTUDGqKTDw&oe=69617DCF",
+        "event": null,
+        "caption": "gost.tn",
+        "cta_text": "Shop now",
+        "cards": [],
+        "body": {
+          "text": "الممثل لطفي بندقة كان السكر عندو 1.45g، واليوم ولا 0.92g بعد ما جرّب خلطة Gost لتنظيم السكر والمخزون 🌿\n\n💚 ما استعمل حتى دواء كيميائي…\nالطبيعة وحدها كانت الحل 👌\n\n✨ تركيبة طبيعية 100٪، مدروسة ومجربة من توانسة شافو الفرق بعينيهم.\nتعاون الجسم ينظّم السكر ويحافظ على توازن المخزون بطريقة آمنة.\n\nخلطة بمكونات طبيعية 100% 🌿\nتحلّك مشكلة السكر اللي ديما طالع ⬆ وتنظملك المخزون 🛡\n\n💚 صحتك ما تستناش ⏳\nاطلب خلطة تنظيم السكر والمخزون توا من gost.tn 👉 \nولا كلمنا على 📞 54083012"
+        },
+        "cta_type": "SHOP_NOW",
+        "display_format": "VIDEO",
+        "link_description": "اطلبها توا وخلّي الطبيعة تنظملك السكر والمخزون 💚",
+        "link_url": "https://gost.tn/product/khlt-ltnzym-lskr-w-lmkhzwn",
+        "images": [],
+        "page_categories": [
+          "Health & Beauty"
+        ],
+        "page_like_count": 13312,
+        "title": "حتى لطفي بندقة جرّبها… والنتيجة واضحة 👀",
+        "videos": [
+          {
+            "video_hd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOxm91TbMP8Znsn_GouThvhd6e846D7hkBm53cMejUgG7r0rJr_-DjbIpFGkkvnXNmSzmpJYFaNt5-fQAReRcB_ZzAy-K_5Gljaw45rut7sCg.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=lsu1Z9ePKrYQ7kNvwH6ZzC0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzk1MTQ0NjgzNjI3MDQsImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjgxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=16272d586bbfc5cf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yODQ0RTdERjQ3QTNEQkZGNDVDNkNFODIyOERDRTk4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlCNEMyNzk5RDcwOTFCOEUwQUUzNzE3MTAzQzRCQ0FBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACagp9OxvJiGBBUCKAJDMywXQFRbtkWhysEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_AfpOa-0EAJ3f5e5EeXY2cvDevtvS5NI6f0OlA7iHjbimpw&oe=696191BF",
+            "video_preview_image_url": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.35426-6/561606537_2380655935718920_2494787449045899003_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T2ElqwxCoSMQ7kNvwGzhlUM&_nc_oc=AdkztYX9IH1sGSCZFVl8FFkFSfb8HUKtEsw32p0LaZvL46_8kjGVqvMByoaOsUckrvQ&_nc_zt=14&_nc_ht=scontent-yyz1-1.xx&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&oh=00_AfrM3MDuBwpisyn7pWVp-mHA3gfLUFzhr0q6ZppJ6C0NQw&oe=69619430",
+            "video_sd_url": "https://video-yyz1-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPbBaH18XHvMcvqc_6fNoEfJzNcPa4edKecQvdoO74-Tg1y8jOc_xrdpuxrXDvBEG1tPI4d1tdGpIFoCX3vAbYUQsitEyYTyVBiNaOBtQ.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-yyz1-1.xx.fbcdn.net&_nc_ohc=nnUjc5EFfq8Q7kNvwEbGfY9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEzOTUxNDQ2ODM2MjcwNCwiYXNzZXRfYWdlX2RheXMiOjc5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6ODEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=jzKI6KCPOgMMUzmQEy6Q-w&_nc_zt=28&oh=00_Afoi672c3v4puWPPoELTtDs8cJJGnSRUy7b22Qk21HBxuw&oe=696175F5",
+            "watermarked_video_hd_url": null,
+            "watermarked_video_sd_url": null
+          }
+        ],
+        "is_reshared": false,
+        "extra_links": [],
+        "extra_texts": [],
+        "extra_images": [],
+        "extra_videos": [],
+        "country_iso_code": null,
+        "brazil_tax_id": null,
+        "additional_info": null,
+        "ec_certificates": []
+      },
+      "is_active": true,
+      "has_user_reported": false,
+      "report_count": null,
+      "menu_items": [],
+      "state_media_run_label": null,
+      "page_is_deleted": false,
+      "page_name": "Gost Naturel",
+      "impressions_with_index": {
+        "impressions_text": null,
+        "impressions_index": -1
+      },
+      "gated_type": "ELIGIBLE",
+      "categories": [
+        "UNKNOWN"
+      ],
+      "is_aaa_eligible": false,
+      "contains_digital_created_media": false,
+      "reach_estimate": null,
+      "currency": "",
+      "spend": null,
+      "end_date": 1767600000,
+      "publisher_platform": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "start_date": 1766217600,
+      "contains_sensitive_content": false,
+      "total_active_time": null,
+      "regional_regulation_data": {
+        "finserv": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "tw_anti_scam": {
+          "is_limited_delivery": false
+        }
+      },
+      "hide_data_status": "NONE",
+      "fev_info": null,
+      "ad_id": null,
+      "targeted_or_reached_countries": [],
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=TN&is_targeted_country=false&media_type=all&q=gost.tn&search_type=keyword_unordered",
+      "total": 13,
+      "ads_count": 13,
+      "start_date_formatted": "2025-12-20 08:00:00",
+      "end_date_formatted": "2026-01-05 08:00:00",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=1215014220487124"
+    }
+  ]
+}
